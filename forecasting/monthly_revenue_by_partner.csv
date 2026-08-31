@@ -1,0 +1,275 @@
+partner_id,partner_name,partner_type,month,monthly_revenue
+PTR001,StyleBlog Daily,Content Site,2025-02-01,77345.04
+PTR001,StyleBlog Daily,Content Site,2025-03-01,1718.96
+PTR001,StyleBlog Daily,Content Site,2025-04-01,6134.65
+PTR001,StyleBlog Daily,Content Site,2025-05-01,90265.96
+PTR001,StyleBlog Daily,Content Site,2025-06-01,20611.18
+PTR001,StyleBlog Daily,Content Site,2025-07-01,16284.49
+PTR001,StyleBlog Daily,Content Site,2025-08-01,5347.85
+PTR001,StyleBlog Daily,Content Site,2025-11-01,41091.15
+PTR001,StyleBlog Daily,Content Site,2025-12-01,8859.73
+PTR001,StyleBlog Daily,Content Site,2026-01-01,30485.10
+PTR001,StyleBlog Daily,Content Site,2026-02-01,0.00
+PTR001,StyleBlog Daily,Content Site,2026-03-01,6427.69
+PTR001,StyleBlog Daily,Content Site,2026-04-01,155.07
+PTR001,StyleBlog Daily,Content Site,2026-05-01,30823.18
+PTR001,StyleBlog Daily,Content Site,2026-06-01,25357.12
+PTR002,Coupon King,Coupon Site,2025-02-01,45435.80
+PTR002,Coupon King,Coupon Site,2025-04-01,14754.97
+PTR002,Coupon King,Coupon Site,2025-05-01,25249.11
+PTR002,Coupon King,Coupon Site,2025-06-01,35022.34
+PTR002,Coupon King,Coupon Site,2025-08-01,41227.77
+PTR002,Coupon King,Coupon Site,2025-09-01,13735.08
+PTR002,Coupon King,Coupon Site,2025-10-01,7531.63
+PTR002,Coupon King,Coupon Site,2025-11-01,12752.72
+PTR002,Coupon King,Coupon Site,2025-12-01,2382.54
+PTR002,Coupon King,Coupon Site,2026-02-01,12217.61
+PTR002,Coupon King,Coupon Site,2026-03-01,73307.66
+PTR002,Coupon King,Coupon Site,2026-04-01,37461.73
+PTR002,Coupon King,Coupon Site,2026-05-01,0.00
+PTR003,Tech Review Hub,Content Site,2025-01-01,1320.80
+PTR003,Tech Review Hub,Content Site,2025-03-01,69002.47
+PTR003,Tech Review Hub,Content Site,2025-06-01,17361.25
+PTR003,Tech Review Hub,Content Site,2025-08-01,28544.15
+PTR003,Tech Review Hub,Content Site,2025-09-01,58666.87
+PTR003,Tech Review Hub,Content Site,2025-10-01,83571.54
+PTR003,Tech Review Hub,Content Site,2025-11-01,3440.15
+PTR003,Tech Review Hub,Content Site,2025-12-01,9208.68
+PTR003,Tech Review Hub,Content Site,2026-01-01,26345.67
+PTR003,Tech Review Hub,Content Site,2026-02-01,25898.52
+PTR003,Tech Review Hub,Content Site,2026-03-01,5515.03
+PTR003,Tech Review Hub,Content Site,2026-04-01,6355.39
+PTR003,Tech Review Hub,Content Site,2026-05-01,30153.16
+PTR003,Tech Review Hub,Content Site,2026-06-01,4799.25
+PTR004,InfluenceHer,Influencer,2025-01-01,9664.04
+PTR004,InfluenceHer,Influencer,2025-04-01,7128.38
+PTR004,InfluenceHer,Influencer,2025-05-01,106364.90
+PTR004,InfluenceHer,Influencer,2025-06-01,20322.28
+PTR004,InfluenceHer,Influencer,2025-07-01,13969.34
+PTR004,InfluenceHer,Influencer,2025-08-01,41428.64
+PTR004,InfluenceHer,Influencer,2025-11-01,4591.66
+PTR004,InfluenceHer,Influencer,2025-12-01,54489.16
+PTR004,InfluenceHer,Influencer,2026-01-01,71495.40
+PTR004,InfluenceHer,Influencer,2026-02-01,18819.89
+PTR004,InfluenceHer,Influencer,2026-06-01,62347.31
+PTR005,DealSeeker247,Coupon Site,2025-01-01,9964.17
+PTR005,DealSeeker247,Coupon Site,2025-02-01,2485.16
+PTR005,DealSeeker247,Coupon Site,2025-03-01,63249.04
+PTR005,DealSeeker247,Coupon Site,2025-04-01,15087.31
+PTR005,DealSeeker247,Coupon Site,2025-05-01,8503.81
+PTR005,DealSeeker247,Coupon Site,2025-06-01,3248.25
+PTR005,DealSeeker247,Coupon Site,2025-07-01,34871.88
+PTR005,DealSeeker247,Coupon Site,2025-08-01,39488.41
+PTR005,DealSeeker247,Coupon Site,2025-10-01,12793.73
+PTR005,DealSeeker247,Coupon Site,2025-11-01,79464.77
+PTR005,DealSeeker247,Coupon Site,2025-12-01,34138.75
+PTR005,DealSeeker247,Coupon Site,2026-01-01,4104.63
+PTR005,DealSeeker247,Coupon Site,2026-02-01,9934.49
+PTR005,DealSeeker247,Coupon Site,2026-04-01,147444.71
+PTR005,DealSeeker247,Coupon Site,2026-05-01,10623.93
+PTR005,DealSeeker247,Coupon Site,2026-06-01,48009.52
+PTR006,HomeAndGardenTips,Content Site,2025-01-01,82464.89
+PTR006,HomeAndGardenTips,Content Site,2025-02-01,31675.32
+PTR006,HomeAndGardenTips,Content Site,2025-04-01,16390.06
+PTR006,HomeAndGardenTips,Content Site,2025-06-01,5640.66
+PTR006,HomeAndGardenTips,Content Site,2025-07-01,9662.24
+PTR006,HomeAndGardenTips,Content Site,2025-09-01,25233.35
+PTR006,HomeAndGardenTips,Content Site,2025-12-01,3480.07
+PTR006,HomeAndGardenTips,Content Site,2026-01-01,18436.14
+PTR006,HomeAndGardenTips,Content Site,2026-04-01,3974.48
+PTR006,HomeAndGardenTips,Content Site,2026-05-01,18020.93
+PTR006,HomeAndGardenTips,Content Site,2026-06-01,39838.15
+PTR007,FitLifeCoach,Influencer,2025-01-01,2273.52
+PTR007,FitLifeCoach,Influencer,2025-03-01,30413.47
+PTR007,FitLifeCoach,Influencer,2025-05-01,101240.16
+PTR007,FitLifeCoach,Influencer,2025-06-01,19149.78
+PTR007,FitLifeCoach,Influencer,2025-08-01,1052.32
+PTR007,FitLifeCoach,Influencer,2025-09-01,86070.25
+PTR007,FitLifeCoach,Influencer,2025-10-01,40953.64
+PTR007,FitLifeCoach,Influencer,2026-01-01,5435.80
+PTR007,FitLifeCoach,Influencer,2026-02-01,13268.58
+PTR007,FitLifeCoach,Influencer,2026-03-01,74053.97
+PTR007,FitLifeCoach,Influencer,2026-04-01,10000.87
+PTR007,FitLifeCoach,Influencer,2026-05-01,26788.29
+PTR007,FitLifeCoach,Influencer,2026-06-01,39791.34
+PTR008,TravelWithMe,Content Site,2025-01-01,54678.30
+PTR008,TravelWithMe,Content Site,2025-02-01,8129.23
+PTR008,TravelWithMe,Content Site,2025-03-01,84882.02
+PTR008,TravelWithMe,Content Site,2025-04-01,26334.34
+PTR008,TravelWithMe,Content Site,2025-05-01,3465.39
+PTR008,TravelWithMe,Content Site,2025-06-01,26834.55
+PTR008,TravelWithMe,Content Site,2025-07-01,14083.27
+PTR008,TravelWithMe,Content Site,2025-08-01,11640.78
+PTR008,TravelWithMe,Content Site,2025-09-01,960.98
+PTR008,TravelWithMe,Content Site,2025-11-01,23868.08
+PTR008,TravelWithMe,Content Site,2025-12-01,9919.45
+PTR008,TravelWithMe,Content Site,2026-01-01,12634.92
+PTR008,TravelWithMe,Content Site,2026-02-01,3313.87
+PTR008,TravelWithMe,Content Site,2026-03-01,62172.02
+PTR008,TravelWithMe,Content Site,2026-04-01,41091.84
+PTR009,GadgetGuru,Content Site,2025-02-01,37908.61
+PTR009,GadgetGuru,Content Site,2025-04-01,11188.71
+PTR009,GadgetGuru,Content Site,2025-05-01,59230.49
+PTR009,GadgetGuru,Content Site,2025-06-01,79321.83
+PTR009,GadgetGuru,Content Site,2025-07-01,13799.82
+PTR009,GadgetGuru,Content Site,2025-08-01,11980.88
+PTR009,GadgetGuru,Content Site,2026-01-01,63985.32
+PTR009,GadgetGuru,Content Site,2026-02-01,3539.77
+PTR009,GadgetGuru,Content Site,2026-03-01,22346.83
+PTR009,GadgetGuru,Content Site,2026-04-01,8165.61
+PTR009,GadgetGuru,Content Site,2026-05-01,36127.61
+PTR009,GadgetGuru,Content Site,2026-06-01,49704.96
+PTR010,SavvyShopperNet,Loyalty/Cashback,2025-01-01,34272.95
+PTR010,SavvyShopperNet,Loyalty/Cashback,2025-02-01,8920.92
+PTR010,SavvyShopperNet,Loyalty/Cashback,2025-03-01,7089.14
+PTR010,SavvyShopperNet,Loyalty/Cashback,2025-04-01,11632.35
+PTR010,SavvyShopperNet,Loyalty/Cashback,2025-06-01,16339.24
+PTR010,SavvyShopperNet,Loyalty/Cashback,2025-08-01,1208.12
+PTR010,SavvyShopperNet,Loyalty/Cashback,2025-09-01,18152.30
+PTR010,SavvyShopperNet,Loyalty/Cashback,2025-10-01,13190.74
+PTR010,SavvyShopperNet,Loyalty/Cashback,2025-11-01,7039.66
+PTR010,SavvyShopperNet,Loyalty/Cashback,2025-12-01,18720.65
+PTR010,SavvyShopperNet,Loyalty/Cashback,2026-01-01,16070.07
+PTR010,SavvyShopperNet,Loyalty/Cashback,2026-03-01,52991.39
+PTR010,SavvyShopperNet,Loyalty/Cashback,2026-04-01,15458.98
+PTR010,SavvyShopperNet,Loyalty/Cashback,2026-05-01,24279.15
+PTR010,SavvyShopperNet,Loyalty/Cashback,2026-06-01,17977.02
+PTR011,ParentingPulse,Content Site,2025-01-01,35594.28
+PTR011,ParentingPulse,Content Site,2025-03-01,2485.32
+PTR011,ParentingPulse,Content Site,2025-05-01,32794.31
+PTR011,ParentingPulse,Content Site,2025-06-01,93708.84
+PTR011,ParentingPulse,Content Site,2025-07-01,37385.15
+PTR011,ParentingPulse,Content Site,2025-08-01,9206.52
+PTR011,ParentingPulse,Content Site,2025-09-01,5820.49
+PTR011,ParentingPulse,Content Site,2025-11-01,39486.40
+PTR011,ParentingPulse,Content Site,2025-12-01,31346.21
+PTR011,ParentingPulse,Content Site,2026-01-01,39097.28
+PTR011,ParentingPulse,Content Site,2026-02-01,100351.54
+PTR011,ParentingPulse,Content Site,2026-03-01,7135.06
+PTR011,ParentingPulse,Content Site,2026-04-01,30255.96
+PTR012,FoodieFinds,Content Site,2025-01-01,29210.75
+PTR012,FoodieFinds,Content Site,2025-02-01,77674.29
+PTR012,FoodieFinds,Content Site,2025-03-01,10691.82
+PTR012,FoodieFinds,Content Site,2025-04-01,28774.60
+PTR012,FoodieFinds,Content Site,2025-05-01,6888.06
+PTR012,FoodieFinds,Content Site,2025-06-01,12123.47
+PTR012,FoodieFinds,Content Site,2025-07-01,560.44
+PTR012,FoodieFinds,Content Site,2025-08-01,32757.20
+PTR012,FoodieFinds,Content Site,2025-09-01,522.44
+PTR012,FoodieFinds,Content Site,2026-02-01,36373.45
+PTR012,FoodieFinds,Content Site,2026-03-01,93755.26
+PTR012,FoodieFinds,Content Site,2026-05-01,3758.18
+PTR012,FoodieFinds,Content Site,2026-06-01,24778.28
+PTR013,BudgetBeautyBlog,Influencer,2025-01-01,5100.72
+PTR013,BudgetBeautyBlog,Influencer,2025-02-01,10130.86
+PTR013,BudgetBeautyBlog,Influencer,2025-04-01,59465.74
+PTR013,BudgetBeautyBlog,Influencer,2025-05-01,30110.76
+PTR013,BudgetBeautyBlog,Influencer,2025-06-01,63480.34
+PTR013,BudgetBeautyBlog,Influencer,2025-07-01,29142.23
+PTR013,BudgetBeautyBlog,Influencer,2025-08-01,24937.98
+PTR013,BudgetBeautyBlog,Influencer,2025-10-01,720.37
+PTR013,BudgetBeautyBlog,Influencer,2025-12-01,120416.64
+PTR013,BudgetBeautyBlog,Influencer,2026-03-01,46919.42
+PTR013,BudgetBeautyBlog,Influencer,2026-04-01,66421.84
+PTR013,BudgetBeautyBlog,Influencer,2026-05-01,21342.02
+PTR013,BudgetBeautyBlog,Influencer,2026-06-01,18707.76
+PTR014,OutdoorLifeReview,Content Site,2025-01-01,31713.32
+PTR014,OutdoorLifeReview,Content Site,2025-02-01,11616.27
+PTR014,OutdoorLifeReview,Content Site,2025-05-01,4879.09
+PTR014,OutdoorLifeReview,Content Site,2025-06-01,11182.99
+PTR014,OutdoorLifeReview,Content Site,2025-07-01,43856.15
+PTR014,OutdoorLifeReview,Content Site,2025-08-01,15321.38
+PTR014,OutdoorLifeReview,Content Site,2025-09-01,13185.34
+PTR014,OutdoorLifeReview,Content Site,2025-10-01,68052.28
+PTR014,OutdoorLifeReview,Content Site,2025-11-01,2917.50
+PTR014,OutdoorLifeReview,Content Site,2025-12-01,11279.21
+PTR014,OutdoorLifeReview,Content Site,2026-01-01,69151.12
+PTR014,OutdoorLifeReview,Content Site,2026-02-01,773.47
+PTR014,OutdoorLifeReview,Content Site,2026-03-01,823.26
+PTR014,OutdoorLifeReview,Content Site,2026-04-01,103950.42
+PTR014,OutdoorLifeReview,Content Site,2026-05-01,36677.59
+PTR014,OutdoorLifeReview,Content Site,2026-06-01,14860.77
+PTR015,CampusCoupons,Coupon Site,2025-02-01,3743.92
+PTR015,CampusCoupons,Coupon Site,2025-03-01,108628.25
+PTR015,CampusCoupons,Coupon Site,2025-05-01,20615.46
+PTR015,CampusCoupons,Coupon Site,2025-06-01,52599.28
+PTR015,CampusCoupons,Coupon Site,2025-09-01,36515.79
+PTR015,CampusCoupons,Coupon Site,2025-10-01,42685.76
+PTR015,CampusCoupons,Coupon Site,2025-11-01,68046.89
+PTR015,CampusCoupons,Coupon Site,2025-12-01,33021.78
+PTR015,CampusCoupons,Coupon Site,2026-01-01,52020.07
+PTR015,CampusCoupons,Coupon Site,2026-03-01,38132.44
+PTR015,CampusCoupons,Coupon Site,2026-04-01,58023.14
+PTR015,CampusCoupons,Coupon Site,2026-05-01,28493.29
+PTR015,CampusCoupons,Coupon Site,2026-06-01,72518.20
+PTR016,PetLoversHub,Content Site,2025-01-01,48624.02
+PTR016,PetLoversHub,Content Site,2025-02-01,32337.36
+PTR016,PetLoversHub,Content Site,2025-04-01,92859.51
+PTR016,PetLoversHub,Content Site,2025-06-01,6099.13
+PTR016,PetLoversHub,Content Site,2025-09-01,51216.43
+PTR016,PetLoversHub,Content Site,2025-10-01,3849.95
+PTR016,PetLoversHub,Content Site,2025-11-01,19016.34
+PTR016,PetLoversHub,Content Site,2025-12-01,21983.27
+PTR016,PetLoversHub,Content Site,2026-01-01,9071.12
+PTR016,PetLoversHub,Content Site,2026-03-01,27072.71
+PTR016,PetLoversHub,Content Site,2026-04-01,67390.58
+PTR016,PetLoversHub,Content Site,2026-05-01,11066.40
+PTR016,PetLoversHub,Content Site,2026-06-01,40877.02
+PTR017,AutoDealsDaily,Affiliate,2025-01-01,47672.35
+PTR017,AutoDealsDaily,Affiliate,2025-02-01,39672.94
+PTR017,AutoDealsDaily,Affiliate,2025-03-01,20602.11
+PTR017,AutoDealsDaily,Affiliate,2025-04-01,48420.80
+PTR017,AutoDealsDaily,Affiliate,2025-05-01,87247.10
+PTR017,AutoDealsDaily,Affiliate,2025-06-01,7596.51
+PTR017,AutoDealsDaily,Affiliate,2025-07-01,37828.48
+PTR017,AutoDealsDaily,Affiliate,2025-10-01,47083.08
+PTR017,AutoDealsDaily,Affiliate,2025-11-01,50427.21
+PTR017,AutoDealsDaily,Affiliate,2025-12-01,21725.48
+PTR017,AutoDealsDaily,Affiliate,2026-01-01,24902.78
+PTR017,AutoDealsDaily,Affiliate,2026-03-01,38369.25
+PTR017,AutoDealsDaily,Affiliate,2026-04-01,4740.17
+PTR017,AutoDealsDaily,Affiliate,2026-05-01,44658.06
+PTR017,AutoDealsDaily,Affiliate,2026-06-01,26680.38
+PTR018,WellnessWeekly,Influencer,2025-01-01,31657.59
+PTR018,WellnessWeekly,Influencer,2025-02-01,21903.83
+PTR018,WellnessWeekly,Influencer,2025-03-01,54252.07
+PTR018,WellnessWeekly,Influencer,2025-04-01,8326.29
+PTR018,WellnessWeekly,Influencer,2025-06-01,23893.62
+PTR018,WellnessWeekly,Influencer,2025-08-01,23102.95
+PTR018,WellnessWeekly,Influencer,2025-09-01,9207.18
+PTR018,WellnessWeekly,Influencer,2025-12-01,28376.24
+PTR018,WellnessWeekly,Influencer,2026-01-01,75537.34
+PTR018,WellnessWeekly,Influencer,2026-02-01,10448.94
+PTR018,WellnessWeekly,Influencer,2026-03-01,29756.68
+PTR018,WellnessWeekly,Influencer,2026-05-01,79688.00
+PTR018,WellnessWeekly,Influencer,2026-06-01,29409.38
+PTR019,GamerGearReviews,Content Site,2025-01-01,45764.11
+PTR019,GamerGearReviews,Content Site,2025-02-01,16578.20
+PTR019,GamerGearReviews,Content Site,2025-03-01,14358.71
+PTR019,GamerGearReviews,Content Site,2025-04-01,39986.46
+PTR019,GamerGearReviews,Content Site,2025-05-01,7974.31
+PTR019,GamerGearReviews,Content Site,2025-07-01,34011.78
+PTR019,GamerGearReviews,Content Site,2025-09-01,18012.93
+PTR019,GamerGearReviews,Content Site,2025-11-01,57504.40
+PTR019,GamerGearReviews,Content Site,2025-12-01,2581.07
+PTR019,GamerGearReviews,Content Site,2026-01-01,3407.51
+PTR019,GamerGearReviews,Content Site,2026-02-01,7586.33
+PTR019,GamerGearReviews,Content Site,2026-03-01,1503.62
+PTR019,GamerGearReviews,Content Site,2026-05-01,4879.86
+PTR019,GamerGearReviews,Content Site,2026-06-01,67518.43
+PTR020,EcoLivingToday,Content Site,2025-01-01,44375.08
+PTR020,EcoLivingToday,Content Site,2025-03-01,8559.77
+PTR020,EcoLivingToday,Content Site,2025-04-01,107457.26
+PTR020,EcoLivingToday,Content Site,2025-05-01,15403.25
+PTR020,EcoLivingToday,Content Site,2025-06-01,894.15
+PTR020,EcoLivingToday,Content Site,2025-07-01,26342.05
+PTR020,EcoLivingToday,Content Site,2025-08-01,6151.15
+PTR020,EcoLivingToday,Content Site,2025-09-01,16857.38
+PTR020,EcoLivingToday,Content Site,2025-10-01,58804.40
+PTR020,EcoLivingToday,Content Site,2025-11-01,28883.34
+PTR020,EcoLivingToday,Content Site,2025-12-01,146.50
+PTR020,EcoLivingToday,Content Site,2026-02-01,4273.49
+PTR020,EcoLivingToday,Content Site,2026-03-01,14654.54
+PTR020,EcoLivingToday,Content Site,2026-04-01,2469.99
+PTR020,EcoLivingToday,Content Site,2026-05-01,0.00
+PTR020,EcoLivingToday,Content Site,2026-06-01,44835.94

@@ -1,0 +1,6 @@
+partner_type,n_months_history,moving_avg_mae,linear_regression_mae,better_method
+Affiliate,15,13856.67,14821.99,moving_average
+Content Site,18,57609.6,93882.11,moving_average
+Coupon Site,18,87033.7,80439.85,linear_regression
+Influencer,18,28802.02,24824.44,linear_regression
+Loyalty/Cashback,15,10022.32,6713.7,linear_regression

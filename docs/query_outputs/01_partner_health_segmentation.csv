@@ -1,0 +1,21 @@
+partner_id,partner_name,partner_type,first_half_avg,second_half_avg,pct_change,health_segment
+PTR016,PetLoversHub,Content Site,46227.29,25040.92,-45.8,At Risk
+PTR001,StyleBlog Daily,Content Site,31101.16,17899.88,-42.4,At Risk
+PTR006,HomeAndGardenTips,Content Site,28511.09,16749.95,-41.3,At Risk
+PTR003,Tech Review Hub,Content Site,34979.11,21698.60,-38.0,At Risk
+PTR020,EcoLivingToday,Content Site,28255.01,19258.53,-31.8,At Risk
+PTR002,Coupon King,Coupon Site,29237.51,20807.70,-28.8,At Risk
+PTR007,FitLifeCoach,Influencer,40033.25,30041.78,-25.0,At Risk
+PTR017,AutoDealsDaily,Affiliate,41291.47,32323.30,-21.7,At Risk
+PTR019,GamerGearReviews,Content Site,25240.93,20711.60,-17.9,At Risk
+PTR009,GadgetGuru,Content Site,35571.72,30645.02,-13.9,At Risk
+PTR008,TravelWithMe,Content Site,25667.65,25500.03,-0.7,Stagnant
+PTR015,CampusCoupons,Coupon Site,44420.54,49117.70,10.6,Growing
+PTR004,InfluenceHer,Influencer,33146.26,42348.68,27.8,Growing
+PTR011,ParentingPulse,Content Site,30999.27,41278.74,33.2,Growing
+PTR013,BudgetBeautyBlog,Influencer,31766.95,45754.68,44.0,Growing
+PTR010,SavvyShopperNet,Loyalty/Cashback,13945.00,20715.96,48.6,Growing
+PTR018,WellnessWeekly,Influencer,24620.50,42202.76,71.4,Growing
+PTR012,FoodieFinds,Content Site,22133.67,39666.29,79.2,Growing
+PTR014,OutdoorLifeReview,Content Site,18822.08,34276.18,82.1,Growing
+PTR005,DealSeeker247,Coupon Site,22112.25,43314.32,95.9,Growing

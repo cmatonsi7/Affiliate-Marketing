@@ -1,0 +1,581 @@
+row_id,partner_id,partner_name,partner_type,click_date,clicks,conversions,revenue,commission_paid,campaign,device_type,region
+1,PTR010,SavvyShopperNet,Loyalty/Cashback,14-03-2026,3477,352,30814.06,2465.12,New Year Refresh 2026,Tablet,US
+2,PTR008,TravelWithMe,Content Site,04/27/2026,1538,59,10700.62,535.03,Summer Clearance 2025,Mobile,US
+3,PTR014,OutdoorLifeReview,Content Site,06/09/2025,86,2,401.65,40.16,New Year Refresh 2026,Tablet,CA
+4,PTR009,GadgetGuru,Content Site,2025-05-30,6089,0,0.0,0.0,Holiday Gift Guide 2025,Mobile,UK
+5,PTR012,FoodieFinds,Content Site,2026-06-05,502,35,4069.61,406.96,Holiday Gift Guide 2025,Desktop,US
+6,PTR013,BudgetBeautyBlog,Influencer,08/09/2025,3382,182,18193.89,"$3,638.78",Black Friday 2025,Desktop,UK
+7,PTR012,FoodieFinds,Content Site,27-04-2025,823,68,8688.38,"$1,737.68",Back to School 2025,Desktop,AU
+8,PTR009,GadgetGuru,Content Site,04-06-2025,3583,361,73990.41,8878.85,Holiday Gift Guide 2025,Mobile,UK
+9,PTR006,HomeAndGardenTips,Content Site,2025-04-26,2856,452,16390.06,2458.51,Holiday Gift Guide 2025,Mobile,US
+10,PTR015,CampusCoupons,Coupon Site,27-01-2026,1298,59,11984.73,2396.95,New Year Refresh 2026,Tablet,DE
+11,PTR002,CouponKing,Coupon Site,2025-10-15,460,18,1537.8,153.78,Holiday Gift Guide 2025,Tablet,CA
+12,PTR003,TechReviewHub,Content Site,10/07/2025,3713,222,44767.08,5372.05,Spring Sale 2025,Desktop,US
+13,PTR020,EcoLivingToday,Content Site,2025-04-05,3849,298,41086.43,2054.32,Holiday Gift Guide 2025,Mobile,UK
+14,PTR005,Deal Seeker 247,Coupon Site,2026-05-15,3640,41,3256.17,651.23,Back to School 2025,Tablet,AU
+15,PTR020,EcoLivingToday,Content Site,04/27/2026,138,14,1513.07,302.61,Holiday Gift Guide 2025,Tablet,US
+16,PTR009,GadgetGuru,Content Site,06/20/2025,524,68,2665.71,133.29,Holiday Gift Guide 2025,Desktop,DE
+17,PTR019,GamerGearReviews,Content Site,06/12/2025,3221,70,10140.55,,Spring Sale 2025,Desktop,
+18,PTR018,WellnessWeekly,Influencer,2025-03-29,3154,174,24464.22,3669.63,Black Friday 2025,Desktop,DE
+19,PTR017,AutoDealsDaily,Affiliate,2026-04-08,1020,52,3233.02,3123.96,Spring Sale 2025,Mobile,US
+20,PTR006,HomeAndGardenTips,Content Site,01/23/2026,3011,88,"$18,436.14",2765.42,Holiday Gift Guide 2025,Mobile,US
+21,PTR016,PetLoversHub,Content Site,2025-10-21,2491,58,3849.95,769.99,Spring Sale 2025,Tablet,CA
+22,PTR008,TravelWithMe,Content Site,08/24/2025,1694,57,10578.99,846.32,New Year Refresh 2026,Tablet,DE
+23,PTR001,StyleBlog Daily,Content Site,11/02/2025,2763,137,8505.12,1020.61,New Year Refresh 2026,Mobile,US
+24,PTR010,SavvyShopperNet,Loyalty/Cashback,06/18/2026,3105,54,6787.05,678.71,Black Friday 2025,Tablet,US
+25,PTR015,CampusCoupons,Coupon Site,24-10-2025,836,10,$541.56,108.31,New Year Refresh 2026,Tablet,UK
+26,PTR018,WellnessWeekly,Influencer,06/01/2025,527,37,7929.11,396.46,Summer Clearance 2025,Tablet,AU
+27,PTR013,BudgetBeautyBlog,Influencer,2025-07-09,2543,179,29142.23,5828.45,Holiday Gift Guide 2025,Mobile,DE
+28,,,,,,,,,,,
+29,PTR016,PetLoversHub,Content Site,2026-05-08,3546,51,11066.4,1106.64,Black Friday 2025,Desktop,US
+30,PTR014,OutdoorLifeReview,Content Site,11-04-2026,2918,324,"$51,975.21",6237.03,Holiday Gift Guide 2025,Mobile,US
+31,PTR013,BudgetBeautyBlog,Influencer,2026-06-24,1051,55,"$7,792.55",389.63,Black Friday 2025,Mobile,US
+32,PTR015,CampusCoupons,Coupon Site,2026-05-22,924,38,6662.73,666.27,Black Friday 2025,Mobile,DE
+33,PTR012,FoodieFinds,Content Site,2025-08-08,1131,64,9083.6,726.69,Holiday Gift Guide 2025,Desktop,US
+34,PTR013,BudgetBeautyBlog,Influencer,06-05-2026,3369,126,21342.02,4268.4,Back to School 2025,Mobile,AU
+35,PTR006,HomeAndGardenTips,Content Site,06/05/2026,2312,186,39838.15,5975.72,Spring Sale 2025,Desktop,CA
+36,PTR005,Deal Seeker 247,Coupon Site,01/15/2025,2846,120,9964.17,1992.83,Holiday Gift Guide 2025,Tablet,AU
+37,PTR019,GamerGearReviews,Content Site,21-01-2025,1563,141,13387.56,1606.51,Summer Clearance 2025,Desktop,AU
+38,PTR011,ParentingPulse,Content Site,01-06-2025,3641,449,68242.71,10236.41,Black Friday 2025,Tablet,US
+39,PTR019,GamerGearReviews,Content Site,09/02/2025,1597,89,11076.74,1329.21,Back to School 2025,Mobile,US
+40,PTR006,HomeAndGardenTips,Content Site,25-09-2025,972,129,11001.62,550.08,Black Friday 2025,Desktop,CA
+41,PTR014,OutdoorLifeReview,Content Site,27-10-2025,952,46,9008.79,1081.05,New Year Refresh 2026,Tablet,CA
+42,PTR016,PetLoversHub,Content Site,12/16/2025,2073,98,9807.52,1961.5,Black Friday 2025,Tablet,CA
+43,PTR014,OutdoorLifeReview,Content Site,2025-05-30,1193,40,2636.21,395.43,Spring Sale 2025,Mobile,US
+44,PTR018,WellnessWeekly,Influencer,02/27/2026,2287,91,7526.06,376.3,Holiday Gift Guide 2025,Mobile,US
+45,PTR008,TravelWithMe,Content Site,25-04-2025,3013,81,10852.87,1627.93,Holiday Gift Guide 2025,Mobile,UK
+46,PTR011,ParentingPulse,Content Site,2025-03-21,1425,56,"$1,858.57",$371.71,Spring Sale 2025,Desktop,US
+47,PTR002,Coupon King,Coupon Site,06/11/2025,3619,215,33991.29,6798.26,Holiday Gift Guide 2025,Desktop,US
+48,PTR008,TravelWithMe,Content Site,2025-07-16,2201,96,6356.19,317.81,New Year Refresh 2026,Mobile,UK
+49,PTR015,CampusCoupons,Coupon Site,02/14/2025,1497,51,3743.92,748.78,Summer Clearance 2025,Tablet,AU
+50,PTR004,InfluenceHer,Influencer,06/07/2026,1696,149,"$9,974.50",997.45,New Year Refresh 2026,Mobile,US
+51,PTR011,ParentingPulse,Content Site,07/24/2025,1652,129,16415.29,820.76,Black Friday 2025,Tablet,CA
+52,PTR008,TravelWithMe,Content Site,13-04-2026,597,67,13082.55,654.13,Holiday Gift Guide 2025,,DE
+53,PTR008,TravelWithMe,Content Site,09-02-2026,5469,0,0.0,0.0,Black Friday 2025,Mobile,UK
+54,PTR004,InfluenceHer,Influencer,2025-11-23,1915,72,1826.93,219.23,Summer Clearance 2025,Mobile,DE
+55,PTR011,ParentingPulse,Content Site,26-06-2025,3971,0,$0.00,$0.00,Summer Clearance 2025,Desktop,AU
+56,PTR016,PetLoversHub,Content Site,09/20/2025,2668,445,51216.43,5121.64,Holiday Gift Guide 2025,Desktop,DE
+57,PTR014,OutdoorLifeReview,Content Site,12/27/2025,3397,290,11090.44,887.24,Holiday Gift Guide 2025,Mobile,US
+58,PTR011,ParentingPulse,Content Site,27-11-2025,2572,87,18050.7,$902.54,Back to School 2025,Desktop,UK
+59,PTR011,ParentingPulse,Content Site,20-05-2025,1927,107,20505.41,4101.08,Black Friday 2025,Desktop,US
+60,PTR018,WellnessWeekly,Influencer,23-06-2026,2923,167,18269.92,913.5,Black Friday 2025,Mobile,CA
+61,PTR017,AutoDealsDaily,Affiliate,2025-03-27,1080,29,2752.64,220.21,New Year Refresh 2026,Desktop,US
+62,PTR011,ParentingPulse,Content Site,2025-09-14,379,43,5820.49,291.02,Spring Sale 2025,Tablet,US
+63,PTR020,EcoLivingToday,Content Site,21-03-2026,2981,173,7834.73,626.78,Black Friday 2025,Desktop,US
+64,PTR012,FoodieFinds,Content Site,06-01-2025,3560,207,5142.02,$514.20,Holiday Gift Guide 2025,Tablet,US
+65,PTR008,TravelWithMe,Content Site,16-02-2025,980,113,8129.23,650.34,Summer Clearance 2025,Tablet,US
+66,PTR012,FoodieFinds,Content Site,06/16/2025,1460,82,12123.47,1818.52,Black Friday 2025,Mobile,AU
+67,PTR017,AutoDealsDaily,Affiliate,12/10/2025,2375,159,21725.48,4345.1,Back to School 2025,Desktop,US
+68,PTR004,InfluenceHer,Influencer,2025-12-10,568,61,11308.04,"$2,261.61",Spring Sale 2025,Mobile,US
+69,PTR018,WellnessWeekly,Influencer,2025-01-23,3987,191,31334.88,2506.79,Summer Clearance 2025,Desktop,US
+70,PTR002,Coupon King,Coupon Site,2025-09-24,2068,94,3137.52,627.5,Spring Sale 2025,Desktop,CA
+71,PTR007,FitLifeCoach,Influencer,23-05-2025,3704,461,69371.6,8324.59,Holiday Gift Guide 2025,Tablet,DE
+72,PTR004,InfluenceHer,Influencer,2026-01-12,3500,224,17631.89,2644.78,Back to School 2025,Desktop,DE
+73,PTR019,GamerGearReviews,Content Site,2026-05-15,2930,38,"$4,879.86",487.99,Spring Sale 2025,Desktop,DE
+74,PTR016,PetLoversHub,Content Site,23-04-2025,2769,204,22707.8,3406.17,Back to School 2025,Desktop,US
+75,PTR001,StyleBlog Daily,Content Site,05/01/2026,3966,500,30823.18,1541.16,New Year Refresh 2026,Tablet,CA
+76,PTR012,FoodieFinds,Content Site,2025-08-20,1744,172,10927.8,"$1,639.17",Spring Sale 2025,Mobile,US
+77,PTR007,FitLifeCoach,Influencer,30-05-2026,2810,134,14254.25,1710.51,Back to School 2025,Tablet,AU
+78,PTR002,CouponKing ,Coupon Site,24-11-2025,578,71,4840.95,580.91,New Year Refresh 2026,Tablet,US
+79,PTR010,SavvyShopperNet,Loyalty/Cashback,01/29/2025,208,22,"$4,195.57",839.11,New Year Refresh 2026,,AU
+80,PTR008,TravelWithMe,Content Site,26-01-2026,1322,59,6831.41,$546.51,Summer Clearance 2025,Mobile,CA
+81,PTR017,AutoDealsDaily,Affiliate,04/07/2026,690,10,"$1,507.15",301.43,Summer Clearance 2025,Mobile,UK
+82,PTR008,TravelWithMe,Content Site,04/02/2026,1607,162,7436.24,371.81,Spring Sale 2025,Desktop,US
+83,PTR011,ParentingPulse,Content Site,2025-12-29,3976,341,31346.21,4701.93,Holiday Gift Guide 2025,Mobile,DE
+84,PTR007,FitLifeCoach,Influencer,08/11/2025,860,58,1052.32,84.19,Black Friday 2025,Tablet,UK
+85,PTR011,ParentingPulse,Content Site,01/06/2025,802,112,"$24,416.48",1953.32,Summer Clearance 2025,Mobile,DE
+86,PTR001,StyleBlog Daily,Content Site,2025-11-05,2125,58,8552.96,,Black Friday 2025,Mobile,UK
+87,PTR002,Coupon King,Coupon Site,2026-03-04,3830,411,47903.57,9580.71,Spring Sale 2025,Mobile,US
+88,PTR020,EcoLivingToday,Content Site,01-08-2025,336,22,2651.46,$530.29,Black Friday 2025,Mobile,US
+89,PTR016,PetLoversHub,Content Site,06/13/2026,3367,184,"$29,524.96",3543.0,Summer Clearance 2025,Mobile,US
+90,PTR017,AutoDealsDaily,Affiliate,2025-04-08,3948,122,8765.86,1753.17,Summer Clearance 2025,Mobile,CA
+91,PTR003,TechReviewHub,Content Site,26-08-2025,1696,127,4115.43,205.77,Holiday Gift Guide 2025,Mobile,DE
+92,PTR008,TravelWithMe,Content Site,2025-06-16,3615,153,26834.55,3220.15,Summer Clearance 2025,Desktop,AU
+93,PTR013,BudgetBeautyBlog,Influencer,04/26/2026,3615,351,55902.34,8385.35,Back to School 2025,Tablet,US
+94,PTR007,FitLifeCoach,Influencer,01/08/2026,291,36,5435.8,271.79,Back to School 2025,Tablet,US
+95,PTR010,SavvyShopperNet,Loyalty/Cashback,2025-04-06,432,16,2219.03,$110.95,Back to School 2025,Desktop,UK
+96,PTR008,TravelWithMe,Content Site,04/21/2025,3467,61,3743.12,449.17,New Year Refresh 2026,Tablet,US
+97,PTR014,OutdoorLifeReview,Content Site,02-06-2025,2964,30,3455.05,691.01,New Year Refresh 2026,Tablet,CA
+98,PTR013,BudgetBeautyBlog,Influencer,05-03-2026,2041,135,8393.42,419.67,Holiday Gift Guide 2025,Tablet,DE
+99,PTR005,Deal Seeker 247,Coupon Site,03-08-2025,1635,11,1273.84,63.69,Black Friday 2025,Tablet,DE
+100,PTR010,SavvyShopperNet,Loyalty/Cashback,2026-05-13,3121,299,"$15,938.60",1593.86,Summer Clearance 2025,Tablet,US
+101,PTR014,OutdoorLifeReview,Content Site,2025-11-29,690,45,2917.5,145.88,Holiday Gift Guide 2025,Tablet,US
+102,,,,,,,,,,,
+103,PTR004,InfluenceHer,Influencer,2026-01-17,2283,279,42506.41,5100.77,Spring Sale 2025,Tablet,DE
+104,PTR018,WellnessWeekly,Influencer,2025-06-30,7218,0,0.0,0.0,Summer Clearance 2025,Desktop,US
+105,PTR014,OutdoorLifeReview,Content Site,07/24/2025,3656,222,43856.15,3508.49,Black Friday 2025,Mobile,US
+106,PTR006,HomeAndGardenTips,Content Site,06/20/2025,1188,50,1299.52,129.95,Summer Clearance 2025,Mobile,US
+107,PTR007,FitLifeCoach,Influencer,2026-02-08,541,71,1852.76,370.55,Summer Clearance 2025,Tablet,CA
+108,PTR017,AutoDealsDaily,Affiliate,10/14/2025,2122,134,14988.24,"$2,997.65",New Year Refresh 2026,Tablet,UK
+109,PTR014,OutdoorLifeReview,Content Site,24-02-2026,307,7,773.47,116.02,Black Friday 2025,Mobile,CA
+110,PTR020,EcoLivingToday,Content Site,2025-01-22,3227,493,28134.1,4220.11,Back to School 2025,Mobile,AU
+111,PTR003,TechReviewHub.,Content Site,2025-08-20,1579,155,20349.17,"$2,034.92",Spring Sale 2025,Desktop,US
+112,PTR013,BudgetBeautyBlog,Influencer,27-01-2025,3957,38,5100.72,$612.09,Summer Clearance 2025,Mobile,CA
+113,PTR013,BudgetBeautyBlog,Influencer,02-04-2025,3306,203,8751.64,700.13,Holiday Gift Guide 2025,Mobile,CA
+114,PTR017,AutoDealsDaily,Affiliate,2026-05-21,3490,182,15067.82,3013.56,Summer Clearance 2025,Tablet,
+115,PTR006,HomeAndGardenTips,Content Site,2025-01-09,1038,143,22940.13,"$2,294.01",Black Friday 2025,Desktop,DE
+116,PTR001,StyleBlog Daily,Content Site,12/09/2025,1017,30,$784.76,$78.48,Holiday Gift Guide 2025,Mobile,AU
+117,PTR014,OutdoorLifeReview,Content Site,01/19/2026,1842,177,27427.87,5485.57,Back to School 2025,Tablet,CA
+118,PTR002,couponking,Coupon Site,2026-03-31,2490,294,25404.09,3048.49,Black Friday 2025,Tablet,UK
+119,PTR010,SavvyShopperNet,Loyalty/Cashback,09/01/2025,504,36,3913.5,195.68,Holiday Gift Guide 2025,Tablet,
+120,PTR017,AutoDealsDaily,Affiliate,10/30/2025,1651,197,32094.84,3209.48,Holiday Gift Guide 2025,Desktop,US
+121,PTR009,GadgetGuru,Content Site,2026-05-05,3372,232,36127.61,2890.21,Summer Clearance 2025,Mobile,US
+122,PTR002,CouponKing ,Coupon Site,2025-09-24,2896,91,10597.56,1271.71,Black Friday 2025,Desktop,US
+123,PTR005,Deal Seeker 247,Coupon Site,02/21/2026,348,29,1281.37,192.21,Black Friday 2025,Tablet,AU
+124,PTR011,ParentingPulse,Content Site,27-03-2025,3625,294,41264.02,,Summer Clearance 2025,Desktop,US
+125,PTR002,couponking,Coupon Site,2026-02-16,2563,69,2375.01,237.5,Summer Clearance 2025,Desktop,US
+126,PTR005,DealSeeker_247,Coupon Site,02-07-2025,2227,62,"$5,406.94",$648.83,New Year Refresh 2026,Tablet,DE
+127,PTR009,GadgetGuru,Content Site,03-02-2025,1522,66,"$5,897.14",1179.43,Black Friday 2025,Mobile,US
+128,PTR016,PetLoversHub,Content Site,01/21/2025,2402,135,12866.22,14544.08,Black Friday 2025,Desktop,DE
+129,PTR015,CampusCoupons,Coupon Site,2025-10-13,2995,237,24652.97,1972.24,Spring Sale 2025,Tablet,CA
+130,PTR010,SavvyShopperNet,Loyalty/Cashback,03/07/2026,1527,87,"$9,697.02",1939.4,Summer Clearance 2025,Desktop,UK
+131,PTR017,AutoDealsDaily,Affiliate,2026-05-21,3490,182,15067.82,3013.56,Summer Clearance 2025,Tablet,
+132,PTR004,InfluenceHer,Influencer,2025-05-21,3955,402,83086.0,9970.32,Back to School 2025,Desktop,AU
+133,PTR016,PetLoversHub,Content Site,05-06-2026,1582,51,"$6,547.88",327.39,Summer Clearance 2025,,DE
+134,PTR019,GamerGearReviews,Content Site,08-02-2026,1308,66,3847.75,$307.82,Black Friday 2025,Tablet,AU
+135,PTR014,OutdoorLifeReview,Content Site,05/18/2025,2984,88,2242.88,$336.43,Black Friday 2025,Mobile,US
+136,PTR005,Deal Seeker 247,Coupon Site,2026-01-18,2272,31,4104.63,492.56,Summer Clearance 2025,Desktop,UK
+137,PTR012,FoodieFinds,Content Site,12-05-2025,2689,63,3444.03,413.28,Holiday Gift Guide 2025,Tablet,US
+138,PTR017,AutoDealsDaily,Affiliate,13-02-2025,1842,214,26176.67,2094.13,Holiday Gift Guide 2025,Mobile,US
+139,PTR020,EcoLivingToday,Content Site,06/21/2026,1781,179,35761.28,3576.13,Spring Sale 2025,Desktop,CA
+140,PTR009,GadgetGuru,Content Site,07/02/2025,289,35,"$1,805.32",216.64,Holiday Gift Guide 2025,Mobile,DE
+141,PTR003,TechReviewHub.,Content Site,03/09/2025,473,4,437.95,52.55,Spring Sale 2025,Desktop,DE
+142,PTR020,EcoLivingToday,Content Site,07-06-2026,2865,43,2754.05,$137.70,Black Friday 2025,Desktop,UK
+143,PTR016,PetLoversHub,Content Site,03/21/2026,2345,130,24927.91,3739.19,Holiday Gift Guide 2025,Desktop,US
+144,PTR011,ParentingPulse,Content Site,01/22/2026,3422,330,39097.28,4691.67,New Year Refresh 2026,Mobile,US
+145,PTR001,StyleBlog Daily,Content Site,2025-07-12,862,16,3002.05,450.31,Summer Clearance 2025,,US
+146,PTR009,GadgetGuru,Content Site,30-08-2025,1775,72,11980.88,1437.71,Black Friday 2025,Desktop,CA
+147,PTR019,GamerGearReviews,Content Site,08-03-2025,1410,154,14358.71,2871.74,Summer Clearance 2025,Mobile,DE
+148,PTR005,Deal Seeker 247,Coupon Site,07-02-2026,567,43,6043.73,1208.75,Holiday Gift Guide 2025,Mobile,DE
+149,PTR017,AutoDealsDaily,Affiliate,04/22/2025,2068,197,39654.94,7930.99,Spring Sale 2025,Tablet,US
+150,PTR017,AutoDealsDaily,Affiliate,07/26/2025,2886,83,16734.72,3346.94,Spring Sale 2025,Mobile,
+151,PTR020,EcoLivingToday,Content Site,03/31/2025,1917,51,8559.77,$427.99,Summer Clearance 2025,Tablet,US
+152,PTR019,GamerGearReviews,Content Site,02/13/2026,903,22,3738.58,186.93,Black Friday 2025,Tablet,CA
+153,PTR007,FitLifeCoach,Influencer,2025-10-31,1483,17,1210.97,60.55,Black Friday 2025,,CA
+154,PTR012,FoodieFinds,Content Site,2025-08-30,2740,108,12745.8,2549.16,Back to School 2025,Tablet,UK
+155,PTR009,GadgetGuru,Content Site,2025-05-03,650,34,4715.02,377.2,Spring Sale 2025,Mobile,US
+156,,,,,,,,,,,
+157,PTR005,DealSeeker_247,Coupon Site,2025-07-27,1270,194,20013.66,1601.09,Spring Sale 2025,Desktop,CA
+158,PTR001,StyleBlog Daily,Content Site,2025-07-05,2324,50,10711.06,535.55,Black Friday 2025,Desktop,AU
+159,PTR002,CouponKing,Coupon Site,04/05/2026,2349,208,37461.73,5619.26,Back to School 2025,Desktop,AU
+160,PTR018,WellnessWeekly,Influencer,2025-09-14,455,3,530.84,42.47,Back to School 2025,Mobile,US
+161,PTR005,Deal Seeker 247,Coupon Site,05/11/2026,1366,91,7367.76,589.42,Black Friday 2025,Tablet,AU
+162,PTR015,CampusCoupons,Coupon Site,2025-06-13,2324,281,46607.66,5592.92,Black Friday 2025,Mobile,US
+163,PTR020,EcoLivingToday,Content Site,10-10-2025,1632,116,13213.08,"$1,321.31",Back to School 2025,Desktop,US
+164,PTR018,WellnessWeekly,Influencer,30-06-2025,3496,401,10563.18,528.16,Black Friday 2025,Mobile,US
+165,PTR013,BudgetBeautyBlog,Influencer,07-02-2025,3765,91,10130.86,1215.7,Back to School 2025,Desktop,US
+166,PTR019,GamerGearReviews,Content Site,19-04-2025,3059,264,37851.55,5677.73,Back to School 2025,Mobile,US
+167,PTR020,EcoLivingToday,Content Site,08/14/2025,1468,26,3499.69,279.98,Spring Sale 2025,Mobile,US
+168,PTR010,SavvyShopperNet,Loyalty/Cashback,01/09/2025,3083,115,19449.68,3889.94,New Year Refresh 2026,Tablet,CA
+169,PTR006,HomeAndGardenTips,Content Site,2025-01-01,3828,115,"$17,755.95",1775.6,Holiday Gift Guide 2025,Tablet,AU
+170,PTR011,ParentingPulse,Content Site,02/25/2026,648,14,2342.82,281.14,Summer Clearance 2025,Mobile,AU
+171,PTR003,Tech Review Hub,Content Site,06-09-2025,2655,50,10710.59,535.53,Black Friday 2025,Desktop,AU
+172,PTR017,AutoDealsDaily,Affiliate,11/21/2025,2514,251,50427.21,6051.27,Back to School 2025,Desktop,US
+173,PTR007,FitLifeCoach,Influencer,04/12/2026,138,13,2731.6,409.74,Back to School 2025,Mobile,UK
+174,PTR001,StyleBlog Daily,Content Site,2026-05-14,3730,0,0.0,0.0,New Year Refresh 2026,Mobile,AU
+175,PTR015,CampusCoupons,Coupon Site,2025-11-26,2305,67,3991.86,598.78,New Year Refresh 2026,Tablet,UK
+176,PTR018,WellnessWeekly,Influencer,16-02-2025,3650,87,4258.74,$212.94,New Year Refresh 2026,Tablet,US
+177,PTR014,OutdoorLifeReview,Content Site,2025-09-16,7418,0,0.0,$0.00,Spring Sale 2025,Tablet,UK
+178,PTR016,PetLoversHub,Content Site,2026-04-20,114,2,292.63,58.53,Summer Clearance 2025,Desktop,US
+179,PTR006,HomeAndGardenTips,Content Site,20-09-2025,2467,58,1199.4,119.94,New Year Refresh 2026,Desktop,DE
+180,PTR009,GadgetGuru,Content Site,2026-04-02,3677,150,3413.45,409.61,Holiday Gift Guide 2025,Desktop,
+181,PTR002,CouponKing,Coupon Site,03/10/2026,4071,0,$0.00,0.0,Spring Sale 2025,Tablet,DE
+182,PTR020,EcoLivingToday,Content Site,05/20/2025,1318,111,5707.14,684.86,New Year Refresh 2026,Tablet,US
+183,PTR011,ParentingPulse,Content Site,13-07-2025,1953,253,"$20,969.86",3145.48,Back to School 2025,Tablet,US
+184,PTR010,SavvyShopperNet,Loyalty/Cashback,2025-02-18,1451,186,8920.92,1338.14,New Year Refresh 2026,Tablet,CA
+185,PTR001,StyleBlog Daily,Content Site,2025-05-02,1909,59,10555.73,"$1,266.69",Holiday Gift Guide 2025,Desktop,US
+186,PTR002,CouponKing ,Coupon Site,2026-05-15,32,0,$0.00,$0.00,New Year Refresh 2026,Tablet,US
+187,PTR002,CouponKing ,Coupon Site,08/23/2025,3239,205,41227.77,8245.55,Back to School 2025,Mobile,DE
+188,PTR009,GadgetGuru,Content Site,06/20/2025,524,68,2665.71,133.29,Holiday Gift Guide 2025,Desktop,DE
+189,,,,,,,,,,,
+190,PTR010,SavvyShopperNet,Loyalty/Cashback,01/07/2025,913,51,10627.7,1062.77,Spring Sale 2025,Mobile,CA
+191,PTR005,DealSeeker247,Coupon Site,03/21/2025,3463,237,39442.02,5916.3,Summer Clearance 2025,Tablet,US
+192,PTR014,OutdoorLifeReview,Content Site,2025-02-09,1581,55,11616.27,2323.25,New Year Refresh 2026,Tablet,US
+193,PTR013,BudgetBeautyBlog,Influencer,12/01/2025,1859,23,4022.4,603.36,Black Friday 2025,Mobile,UK
+194,PTR008,TravelWithMe,Content Site,01/03/2025,1459,134,16348.93,"$3,269.79",Summer Clearance 2025,Desktop,CA
+195,PTR010,SavvyShopperNet,Loyalty/Cashback,06/18/2026,3105,54,6787.05,678.71,Black Friday 2025,Tablet,US
+196,PTR003,Tech Review Hub,Content Site,2026-04-07,3078,208,"$4,343.77",434.38,Back to School 2025,Desktop,AU
+197,PTR006,HomeAndGardenTips,Content Site,2025-09-16,2077,30,4605.08,552.61,Black Friday 2025,Mobile,
+198,PTR008,TravelWithMe,Content Site,03/22/2025,1824,146,,778.54,Black Friday 2025,Mobile,US
+199,PTR015,CampusCoupons,Coupon Site,2026-05-16,343,24,$520.86,41.67,Holiday Gift Guide 2025,Desktop,CA
+200,PTR006,HomeAndGardenTips,Content Site,27-04-2026,578,40,3974.48,$397.45,Spring Sale 2025,Desktop,US
+201,PTR014,OutdoorLifeReview,Content Site,11-04-2026,2918,324,"$51,975.21",6237.03,Holiday Gift Guide 2025,Mobile,US
+202,PTR009,GadgetGuru,Content Site,04/13/2026,820,51,4752.16,475.22,New Year Refresh 2026,,US
+203,PTR010,SavvyShopperNet,Loyalty/Cashback,05-10-2025,410,17,"$1,612.63",161.26,Holiday Gift Guide 2025,,DE
+204,PTR012,FoodieFinds,Content Site,2026-02-06,3656,262,28889.1,4333.36,Spring Sale 2025,Tablet,US
+205,PTR012,FoodieFinds,Content Site,18-09-2025,352,6,522.44,78.37,Black Friday 2025,Desktop,US
+206,PTR014,OutdoorLifeReview,Content Site,10-05-2026,3204,101,16639.89,1331.19,Black Friday 2025,Tablet,US
+207,PTR005,DealSeeker_247,Coupon Site,02/03/2026,1482,12,1065.4,$106.54,Black Friday 2025,Mobile,UK
+208,PTR013,BudgetBeautyBlog,Influencer,04/14/2025,1241,179,18715.89,3743.18,New Year Refresh 2026,Mobile,US
+209,PTR001,StyleBlog Daily,Content Site,2025-05-08,1812,200,43823.46,"$3,505.88",Back to School 2025,Mobile,US
+210,PTR017,AutoDealsDaily,Affiliate,19-01-2026,2656,129,14674.57,1467.46,Back to School 2025,Desktop,US
+211,PTR004,InfluenceHer,Influencer,08/12/2025,2870,160,34010.5,6802.1,Spring Sale 2025,Desktop,CA
+212,PTR010,SavvyShopperNet,Loyalty/Cashback,18-11-2025,2970,279,19345.93,,Holiday Gift Guide 2025,Tablet,UK
+213,PTR008,TravelWithMe,Content Site,17-04-2025,3016,63,5317.34,1063.47,Black Friday 2025,Tablet,US
+214,PTR009,GadgetGuru,Content Site,2025-04-18,1405,88,"$11,188.71",559.44,Spring Sale 2025,Tablet,US
+215,PTR018,WellnessWeekly,Influencer,2026-05-16,3760,651,79688.0,3984.4,Black Friday 2025,Mobile,US
+216,PTR016,PetLoversHub,Content Site,07-01-2025,3928,277,32112.55,4816.88,Holiday Gift Guide 2025,Mobile,US
+217,PTR003,TechReviewHub.,Content Site,2025-06-26,1019,124,17361.25,1736.12,Black Friday 2025,Desktop,US
+218,PTR002,CouponKing,Coupon Site,31-12-2025,635,38,2382.54,357.38,New Year Refresh 2026,Desktop,US
+219,PTR003,Tech Review Hub,Content Site,12-06-2026,2597,76,4799.25,479.93,Spring Sale 2025,Mobile,AU
+220,PTR020,EcoLivingToday,Content Site,07-11-2025,910,50,3627.75,725.55,Summer Clearance 2025,Mobile,AU
+221,PTR009,GadgetGuru,Content Site,10-05-2025,3971,310,54515.47,10903.09,Black Friday 2025,Tablet,CA
+222,PTR005,Deal Seeker 247,Coupon Site,2025-08-07,2434,31,5279.23,422.34,Summer Clearance 2025,Desktop,CA
+223,PTR003,TechReviewHub,Content Site,2025-03-08,3701,216,40757.36,4075.74,Summer Clearance 2025,Mobile,US
+224,PTR013,BudgetBeautyBlog,Influencer,2025-05-29,2750,139,30110.76,6022.15,Back to School 2025,Tablet,US
+225,PTR002,Coupon King,Coupon Site,10/26/2025,1635,122,5993.83,599.38,Holiday Gift Guide 2025,Tablet,US
+226,PTR004,InfluenceHer,Influencer,18-06-2026,858,59,4792.45,$958.49,Black Friday 2025,Desktop,UK
+227,PTR001,StyleBlog Daily,Content Site,02/02/2025,3609,153,"$14,098.80",1691.86,New Year Refresh 2026,Tablet,CA
+228,PTR016,PetLoversHub,Content Site,01-04-2025,3390,82,5191.09,259.55,Back to School 2025,Tablet,UK
+229,PTR007,FitLifeCoach,Influencer,2026-03-30,3738,285,38651.41,7730.28,Black Friday 2025,Desktop,AU
+230,PTR018,WellnessWeekly,Influencer,21-03-2025,1923,142,"$13,205.48",660.27,Back to School 2025,Mobile,DE
+231,PTR010,SavvyShopperNet,Loyalty/Cashback,2026-05-11,1484,61,8340.55,667.24,Spring Sale 2025,Desktop,CA
+232,PTR012,FoodieFinds,Content Site,01/25/2025,698,80,"$8,452.25",676.18,New Year Refresh 2026,Mobile,AU
+233,PTR017,AutoDealsDaily,Affiliate,2025-07-15,5038,0,0.0,0.0,Holiday Gift Guide 2025,Desktop,UK
+234,PTR020,EcoLivingToday,Content Site,08-11-2025,2308,280,25055.86,"$1,252.79",Holiday Gift Guide 2025,Desktop,US
+235,PTR016,PetLoversHub,Content Site,02/18/2025,3861,205,32337.36,3880.48,Holiday Gift Guide 2025,Mobile,DE
+236,PTR020,EcoLivingToday,Content Site,04/17/2026,1227,18,956.92,890.69,Holiday Gift Guide 2025,Mobile,AU
+237,PTR002,CouponKing ,Coupon Site,17-11-2025,271,5,131.16,19.67,New Year Refresh 2026,Mobile,UK
+238,PTR017,AutoDealsDaily,Affiliate,12/27/2025,127,11,584.24,,Summer Clearance 2025,Desktop,US
+239,PTR010,SavvyShopperNet,Loyalty/Cashback,2025-06-18,1435,93,16339.24,3267.85,Holiday Gift Guide 2025,Mobile,DE
+240,PTR001,StyleBlog Daily,Content Site,15-03-2025,69,8,1718.96,137.52,New Year Refresh 2026,Desktop,DE
+241,PTR014,OutdoorLifeReview,Content Site,2025-12-19,7181,1,$188.77,18.88,New Year Refresh 2026,Mobile,US
+242,PTR014,OutdoorLifeReview,Content Site,2025-09-20,395,8,$892.33,89.23,Back to School 2025,Mobile,US
+243,PTR011,ParentingPulse,Content Site,2025-03-24,234,12,$626.75,62.68,New Year Refresh 2026,Mobile,US
+244,PTR013,BudgetBeautyBlog,Influencer,2025-04-01,1682,45,4938.06,740.71,Summer Clearance 2025,Mobile,CA
+245,PTR018,WellnessWeekly,Influencer,2025-04-20,872,65,"$8,326.29",1665.26,Spring Sale 2025,Desktop,AU
+246,PTR002,Coupon King,Coupon Site,2025-04-26,2811,309,"$14,754.97",737.75,Summer Clearance 2025,Desktop,US
+247,PTR004,InfluenceHer,Influencer,08/31/2025,6219,0,0.0,$0.00,New Year Refresh 2026,Desktop,CA
+248,PTR018,WellnessWeekly,Influencer,03/13/2026,954,51,7637.15,916.46,Holiday Gift Guide 2025,,AU
+249,PTR001,StyleBlog Daily,Content Site,2025-02-16,3433,368,63246.24,12649.25,Back to School 2025,Desktop,UK
+250,PTR007,FitLifeCoach,Influencer,19-03-2025,2833,124,9526.23,1905.25,Spring Sale 2025,Tablet,UK
+251,PTR017,AutoDealsDaily,Affiliate,05/07/2025,3477,289,33662.79,"$6,732.56",Summer Clearance 2025,Desktop,US
+252,PTR004,InfluenceHer,Influencer,12/28/2025,3394,238,43181.12,2159.06,Black Friday 2025,Mobile,
+253,PTR003,TechReviewHub.,Content Site,2026-05-14,2430,66,7013.78,$701.38,Spring Sale 2025,Tablet,UK
+254,PTR009,GadgetGuru,Content Site,24-02-2025,2623,172,24042.87,4808.57,Black Friday 2025,Desktop,US
+255,PTR002,CouponKing,Coupon Site,22-05-2025,2655,122,17381.39,3476.28,Spring Sale 2025,Mobile,US
+256,PTR005,DealSeeker_247,Coupon Site,05-11-2025,3353,274,32152.92,3215.29,Summer Clearance 2025,Mobile,UK
+257,PTR002,CouponKing ,Coupon Site,11/12/2025,2995,199,7780.61,622.45,Back to School 2025,Tablet,
+258,PTR004,InfluenceHer,Influencer,2025-05-28,3260,267,21408.08,2568.97,Holiday Gift Guide 2025,Mobile,AU
+259,PTR015,CampusCoupons,Coupon Site,29-10-2025,2860,215,"$17,491.23",2098.95,Holiday Gift Guide 2025,Mobile,CA
+260,PTR007,FitLifeCoach,Influencer,01-03-2025,3018,155,20887.24,"$3,133.09",Holiday Gift Guide 2025,Mobile,CA
+261,PTR019,GamerGearReviews,Content Site,10-09-2025,2440,53,6936.19,693.62,New Year Refresh 2026,Tablet,AU
+262,PTR017,AutoDealsDaily,Affiliate,06/17/2025,3370,374,7596.51,1139.48,Holiday Gift Guide 2025,Mobile,US
+263,PTR008,TravelWithMe,Content Site,03/27/2025,589,57,964.79,48.24,Spring Sale 2025,Tablet,US
+264,PTR014,OutdoorLifeReview,Content Site,13-10-2025,1087,60,4965.92,993.18,Back to School 2025,Mobile,US
+265,PTR018,WellnessWeekly,Influencer,01/31/2025,574,19,322.71,64.54,Black Friday 2025,Mobile,US
+266,PTR001,StyleBlog Daily,Content Site,06/14/2026,2111,67,13342.9,1067.43,Summer Clearance 2025,Mobile,UK
+267,PTR001,StyleBlog Daily,Content Site,28-04-2026,211,3,155.07,23.26,Back to School 2025,Tablet,US
+268,PTR003,Tech Review Hub,Content Site,08/16/2025,332,42,4079.55,815.91,New Year Refresh 2026,,US
+269,PTR010,SavvyShopperNet,Loyalty/Cashback,12/19/2025,1086,76,1723.72,172.37,Black Friday 2025,Mobile,DE
+270,PTR012,FoodieFinds,Content Site,25-02-2025,1087,16,"$1,547.88",154.79,New Year Refresh 2026,Desktop,AU
+271,PTR010,SavvyShopperNet,Loyalty/Cashback,2025-12-02,2270,90,15824.16,3164.83,Holiday Gift Guide 2025,Desktop,US
+272,PTR007,FitLifeCoach,Influencer,27-09-2025,3635,455,86070.25,17214.05,Summer Clearance 2025,Tablet,DE
+273,PTR001,StyleBlog Daily,Content Site,14-03-2026,2762,62,6427.69,771.32,Back to School 2025,Desktop,US
+274,PTR015,CampusCoupons,Coupon Site,09/24/2025,760,77,16593.09,1327.45,Back to School 2025,,CA
+275,PTR020,EcoLivingToday,Content Site,12-02-2026,333,46,4273.49,$427.35,Spring Sale 2025,Tablet,US
+276,PTR010,SavvyShopperNet,Loyalty/Cashback,2025-12-06,205,16,1172.77,234.55,New Year Refresh 2026,Desktop,CA
+277,PTR010,SavvyShopperNet,Loyalty/Cashback,03/07/2026,1527,87,"$9,697.02",1939.4,Summer Clearance 2025,Desktop,UK
+278,PTR008,TravelWithMe,Content Site,21-12-2025,3670,47,9919.45,991.95,Holiday Gift Guide 2025,Tablet,US
+279,PTR007,FitLifeCoach,Influencer,06-01-2025,3050,138,2273.52,454.7,Back to School 2025,Desktop,US
+280,PTR014,OutdoorLifeReview,Content Site,2026-03-30,360,5,823.26,82.33,Summer Clearance 2025,Mobile,US
+281,PTR014,OutdoorLifeReview,Content Site,2026-05-19,1930,105,20037.7,2003.77,New Year Refresh 2026,Desktop,US
+282,PTR013,BudgetBeautyBlog,Influencer,19-04-2026,387,24,4385.99,219.3,Black Friday 2025,Desktop,UK
+283,PTR005,Deal Seeker 247,Coupon Site,24-06-2026,2656,104,"$20,901.67","$2,508.20",Back to School 2025,Tablet,CA
+284,PTR003,Tech Review Hub,Content Site,03/08/2025,1933,129,15872.91,2380.94,Spring Sale 2025,Tablet,AU
+285,PTR008,TravelWithMe,Content Site,25-08-2025,111,9,1061.79,$159.27,Black Friday 2025,Mobile,US
+286,PTR016,PetLoversHub,Content Site,13-04-2025,2770,234,35524.58,2841.97,Summer Clearance 2025,Desktop,US
+287,PTR012,FoodieFinds,Content Site,03/15/2025,3534,196,6068.52,606.85,New Year Refresh 2026,Tablet,DE
+288,PTR011,ParentingPulse,Content Site,04/08/2026,3582,164,"$30,255.96","$3,025.60",Summer Clearance 2025,Desktop,DE
+289,PTR004,InfluenceHer,Influencer,2025-07-15,1811,57,5650.26,847.54,Summer Clearance 2025,Tablet,US
+290,PTR005,DealSeeker247,Coupon Site,2025-04-16,1053,101,15087.31,1206.98,Holiday Gift Guide 2025,Desktop,US
+291,PTR006,HomeAndGardenTips,Content Site,02/01/2025,3505,242,"$26,551.97",2124.16,Summer Clearance 2025,Mobile,US
+292,PTR006,HomeAndGardenTips,Content Site,2025-07-08,2531,54,9662.24,483.11,Holiday Gift Guide 2025,Tablet,US
+293,PTR015,CampusCoupons,Coupon Site,2026-01-07,2150,285,40035.34,3202.83,Summer Clearance 2025,Mobile,DE
+294,PTR006,HomeAndGardenTips,Content Site,2025-02-01,3481,178,5123.35,1024.67,Spring Sale 2025,Tablet,DE
+295,PTR018,WellnessWeekly,Influencer,2026-03-06,1323,120,22119.53,3317.93,Summer Clearance 2025,Mobile,US
+296,PTR019,GamerGearReviews,Content Site,2026-06-19,3079,207,42831.88,3426.55,Summer Clearance 2025,Mobile,US
+297,PTR020,EcoLivingToday,Content Site,05/20/2025,1318,111,5707.14,684.86,New Year Refresh 2026,Tablet,US
+298,PTR008,TravelWithMe,Content Site,03/27/2025,589,57,964.79,48.24,Spring Sale 2025,Tablet,US
+299,PTR013,BudgetBeautyBlog,Influencer,02-06-2025,3658,66,3113.23,373.59,Black Friday 2025,Mobile,CA
+300,PTR018,WellnessWeekly,Influencer,2026-01-02,3216,317,38586.6,5787.99,Back to School 2025,Mobile,DE
+301,PTR012,FoodieFinds,Content Site,02/08/2025,3595,382,52240.19,2612.01,New Year Refresh 2026,Mobile,US
+302,PTR009,GadgetGuru,Content Site,2025-02-17,2808,325,7067.08,706.71,Summer Clearance 2025,Tablet,AU
+303,PTR006,HomeAndGardenTips,Content Site,2025-06-21,3316,28,4341.14,347.29,Back to School 2025,Tablet,CA
+304,PTR009,GadgetGuru,Content Site,2026-01-13,280,19,2230.85,111.54,Spring Sale 2025,Desktop,CA
+305,PTR015,CampusCoupons,Coupon Site,2025-11-15,2960,185,14270.09,2140.51,Black Friday 2025,Desktop,AU
+306,PTR007,FitLifeCoach,Influencer,04/26/2026,1799,86,7269.27,1090.39,Back to School 2025,Mobile,US
+307,PTR005,DealSeeker247,Coupon Site,06/04/2026,2656,130,"$27,107.85","$4,066.18",New Year Refresh 2026,Desktop,US
+308,PTR005,DealSeeker247,Coupon Site,2025-03-03,3251,321,"$23,807.02",1190.35,Black Friday 2025,Tablet,US
+309,PTR017,AutoDealsDaily,Affiliate,11/14/2025,591,18,,173.97,Black Friday 2025,Desktop,US
+310,PTR006,HomeAndGardenTips,Content Site,2025-12-26,376,26,3480.07,348.01,Holiday Gift Guide 2025,Tablet,AU
+311,PTR002,CouponKing ,Coupon Site,12-05-2025,1604,65,7867.72,944.13,Spring Sale 2025,Tablet,CA
+312,PTR020,EcoLivingToday,Content Site,06/04/2026,1900,270,6320.61,948.09,Black Friday 2025,Tablet,US
+313,PTR020,EcoLivingToday,Content Site,29-03-2026,1419,123,6819.81,681.98,New Year Refresh 2026,Desktop,US
+314,PTR013,BudgetBeautyBlog,Influencer,2026-06-11,2698,90,10915.21,"$1,637.28",Summer Clearance 2025,Mobile,US
+315,PTR015,CampusCoupons,Coupon Site,04/18/2026,3192,318,58023.14,"$8,703.47",New Year Refresh 2026,Mobile,US
+316,PTR019,GamerGearReviews,Content Site,05/19/2025,1698,20,"$3,976.13",$318.09,Back to School 2025,Desktop,UK
+317,PTR015,CampusCoupons,Coupon Site,10-03-2026,3065,83,7762.53,621.0,Spring Sale 2025,Tablet,US
+318,PTR019,GamerGearReviews,Content Site,26-12-2025,2504,45,2581.07,206.49,Back to School 2025,Tablet,US
+319,PTR009,GadgetGuru,Content Site,15-07-2025,2479,372,,49566.44,Black Friday 2025,Desktop,US
+320,PTR012,FoodieFinds,Content Site,04/01/2025,3464,180,5602.08,560.21,Summer Clearance 2025,Desktop,AU
+321,PTR013,BudgetBeautyBlog,Influencer,12/06/2025,3099,357,11094.73,2218.95,Black Friday 2025,Mobile,US
+322,PTR019,GamerGearReviews,Content Site,19-07-2025,2857,99,15440.3,772.01,New Year Refresh 2026,Mobile,AU
+323,PTR008,TravelWithMe,Content Site,2026-01-19,824,69,5803.51,$464.28,Spring Sale 2025,Mobile,UK
+324,PTR019,GamerGearReviews,Content Site,02/16/2025,3535,114,2272.21,340.83,Spring Sale 2025,Mobile,US
+325,PTR015,CampusCoupons,Coupon Site,29-11-2025,3012,185,35514.85,7102.97,Spring Sale 2025,Tablet,US
+326,PTR015,CampusCoupons,Coupon Site,05/08/2025,327,37,"$7,091.05",1063.66,New Year Refresh 2026,Mobile,UK
+327,PTR009,GadgetGuru,Content Site,26-01-2026,3706,322,49487.46,9897.49,New Year Refresh 2026,Mobile,AU
+328,PTR009,GadgetGuru,Content Site,06/07/2025,1471,181,,2695.91,New Year Refresh 2026,Desktop,UK
+329,PTR015,CampusCoupons,Coupon Site,21-03-2025,1175,76,2395.4,191.63,Summer Clearance 2025,Tablet,CA
+330,PTR007,FitLifeCoach,Influencer,03/17/2026,3642,164,16445.57,$822.28,Back to School 2025,Tablet,US
+331,PTR015,CampusCoupons,Coupon Site,2025-05-15,3334,172,13524.41,2704.88,Summer Clearance 2025,Desktop,US
+332,PTR012,FoodieFinds,Content Site,12-02-2025,1812,129,23886.22,1910.9,Back to School 2025,Desktop,US
+333,PTR014,OutdoorLifeReview,Content Site,06/03/2026,1081,69,14860.77,$743.04,Holiday Gift Guide 2025,Tablet,
+334,PTR015,CampusCoupons,Coupon Site,12/25/2025,3365,61,3330.09,$333.01,Back to School 2025,Desktop,UK
+335,PTR018,WellnessWeekly,Influencer,2026-01-26,806,78,13862.08,1663.45,Back to School 2025,Mobile,DE
+336,PTR017,AutoDealsDaily,Affiliate,2025-07-23,1536,136,"$16,826.26",841.31,Spring Sale 2025,Mobile,US
+337,PTR012,FoodieFinds,Content Site,04/01/2025,3464,180,5602.08,560.21,Summer Clearance 2025,Desktop,AU
+338,PTR016,PetLoversHub,Content Site,04/19/2025,3940,408,18916.18,1513.29,Holiday Gift Guide 2025,Tablet,US
+339,PTR010,SavvyShopperNet,Loyalty/Cashback,05-10-2025,2863,63,11578.11,578.91,Black Friday 2025,Desktop,US
+340,PTR005,DealSeeker_247,Coupon Site,10/14/2025,868,81,12541.29,1254.13,Summer Clearance 2025,Desktop,US
+341,PTR005,DealSeeker247,Coupon Site,04/26/2026,2476,63,8518.87,1703.77,Holiday Gift Guide 2025,Tablet,AU
+342,PTR008,TravelWithMe,Content Site,2026-03-03,2726,158,33250.75,"$4,987.61",Black Friday 2025,Desktop,US
+343,PTR017,AutoDealsDaily,Affiliate,2026-06-24,1930,168,"$12,585.58",1887.84,Black Friday 2025,Mobile,UK
+344,PTR011,ParentingPulse,Content Site,08-02-2026,3851,297,"$57,777.05",2888.85,Spring Sale 2025,Desktop,US
+345,PTR020,EcoLivingToday,Content Site,2025-04-05,3849,298,41086.43,2054.32,Holiday Gift Guide 2025,Mobile,UK
+346,PTR005,Deal Seeker 247,Coupon Site,2025-08-22,2967,187,32935.34,3952.24,Spring Sale 2025,Desktop,US
+347,PTR017,AutoDealsDaily,Affiliate,11-02-2025,293,3,364.48,18.22,Summer Clearance 2025,Mobile,DE
+348,PTR013,BudgetBeautyBlog,Influencer,2025-12-03,2749,469,94762.31,4738.12,Back to School 2025,Tablet,
+349,PTR008,TravelWithMe,Content Site,03-04-2026,3893,117,9872.43,1480.86,Black Friday 2025,,US
+350,PTR018,WellnessWeekly,Influencer,12/18/2025,2976,288,"$13,392.82",1071.43,Back to School 2025,Tablet,US
+351,PTR018,WellnessWeekly,Influencer,2025-08-21,1814,65,1115.66,$167.35,Back to School 2025,,CA
+352,PTR005,Deal Seeker 247,Coupon Site,22-11-2025,3228,320,47311.85,4731.19,Back to School 2025,Tablet,AU
+353,PTR012,FoodieFinds,Content Site,29-01-2025,2731,101,15616.48,1561.65,Spring Sale 2025,Mobile,CA
+354,PTR002,Coupon King,Coupon Site,02/09/2026,3052,47,9842.6,1968.52,Black Friday 2025,Desktop,UK
+355,PTR011,ParentingPulse,Content Site,08/06/2025,1938,138,9206.52,1104.78,Spring Sale 2025,Mobile,US
+356,PTR015,CampusCoupons,Coupon Site,2025-03-11,2251,186,"$20,741.14",2074.11,Holiday Gift Guide 2025,Mobile,CA
+357,PTR019,GamerGearReviews,Content Site,2025-05-31,686,29,3998.18,599.73,Summer Clearance 2025,Mobile,US
+358,PTR003,Tech Review Hub,Content Site,2026-05-30,1192,30,5156.44,618.77,Summer Clearance 2025,Desktop,US
+359,PTR003,TechReviewHub,Content Site,26-11-2025,612,27,3440.15,344.02,Holiday Gift Guide 2025,Desktop,US
+360,PTR015,CampusCoupons,Coupon Site,06/09/2026,2355,193,34476.7,3447.67,Holiday Gift Guide 2025,Tablet,US
+361,PTR013,BudgetBeautyBlog,Influencer,25-03-2026,1723,183,"$16,952.40","$2,542.86",New Year Refresh 2026,Tablet,US
+362,PTR011,ParentingPulse,Content Site,05/07/2025,456,25,1852.39,370.48,Spring Sale 2025,Desktop,US
+363,PTR008,TravelWithMe,Content Site,2025-03-14,3815,447,"$82,952.44",9954.29,Holiday Gift Guide 2025,Desktop,US
+364,PTR016,PetLoversHub,Content Site,09-06-2025,1891,109,19153.23,,Back to School 2025,Tablet,US
+365,PTR009,GadgetGuru,Content Site,02-07-2025,3947,61,5237.82,523.78,Holiday Gift Guide 2025,Desktop,UK
+366,PTR015,CampusCoupons,Coupon Site,05/26/2026,6221,1,213.17,17.05,Back to School 2025,Mobile,US
+367,PTR016,PetLoversHub,Content Site,06/20/2025,649,14,2284.37,182.75,Spring Sale 2025,Mobile,US
+368,PTR010,SavvyShopperNet,Loyalty/Cashback,28-03-2025,553,12,1098.33,87.87,Summer Clearance 2025,Tablet,DE
+369,PTR018,WellnessWeekly,Influencer,18-08-2025,2655,123,"$21,987.29",2198.73,Black Friday 2025,Desktop,US
+370,PTR018,WellnessWeekly,Influencer,20-06-2025,1551,35,5401.33,270.07,Back to School 2025,Mobile,US
+371,PTR017,AutoDealsDaily,Affiliate,18-03-2025,2968,82,17849.47,"$1,784.95",Summer Clearance 2025,Mobile,US
+372,PTR016,PetLoversHub,Content Site,06/27/2026,3145,73,4804.18,384.33,Holiday Gift Guide 2025,Mobile,US
+373,PTR020,EcoLivingToday,Content Site,2026-05-07,4399,0,0.0,0.0,Black Friday 2025,Desktop,US
+374,PTR012,FoodieFinds,Content Site,2026-06-09,2010,81,11183.66,559.18,Summer Clearance 2025,Tablet,US
+375,PTR017,AutoDealsDaily,Affiliate,07/13/2025,684,20,4267.5,853.5,Black Friday 2025,Tablet,US
+376,PTR017,AutoDealsDaily,Affiliate,01/11/2026,1292,29,4808.59,577.03,Back to School 2025,Desktop,UK
+377,PTR012,FoodieFinds,Content Site,27-02-2026,1768,59,7484.35,898.12,Black Friday 2025,Desktop,US
+378,PTR003,TechReviewHub.,Content Site,09/15/2025,3989,227,43784.32,5254.12,Summer Clearance 2025,Tablet,US
+379,PTR013,BudgetBeautyBlog,Influencer,08/25/2025,2087,35,6744.09,1011.61,Black Friday 2025,Tablet,AU
+380,PTR004,InfluenceHer,Influencer,06/03/2026,1494,63,9445.13,755.61,Holiday Gift Guide 2025,Tablet,US
+381,PTR006,HomeAndGardenTips,Content Site,09/17/2025,1917,33,7227.85,867.34,Summer Clearance 2025,Desktop,US
+382,PTR019,GamerGearReviews,Content Site,15-04-2025,770,14,2134.91,256.19,Black Friday 2025,Tablet,US
+383,PTR015,CampusCoupons,Coupon Site,2025-03-19,3094,396,85491.71,12823.76,Back to School 2025,Mobile,DE
+384,PTR004,InfluenceHer,Influencer,07/30/2025,648,71,"$8,319.08",415.95,Summer Clearance 2025,Desktop,US
+385,PTR011,ParentingPulse,Content Site,2025-01-15,3677,131,5015.91,1003.18,Summer Clearance 2025,Desktop,US
+386,PTR004,InfluenceHer,Influencer,02/08/2026,3260,201,8959.54,1343.93,Spring Sale 2025,Mobile,US
+387,PTR020,EcoLivingToday,Content Site,03-09-2025,653,6,366.38,18.32,Summer Clearance 2025,Tablet,UK
+388,PTR018,WellnessWeekly,Influencer,2025-08-23,3995,209,5267.95,,Spring Sale 2025,Mobile,US
+389,PTR018,WellnessWeekly,Influencer,02/04/2026,2492,49,2922.88,"$8,351.47",New Year Refresh 2026,Tablet,US
+390,PTR001,StyleBlog Daily,Content Site,12/12/2025,1278,97,3408.05,272.64,Back to School 2025,Desktop,US
+391,PTR018,WellnessWeekly,Influencer,14-03-2025,3370,115,16582.37,1989.88,Spring Sale 2025,Tablet,DE
+392,PTR016,PetLoversHub,Content Site,2026-03-18,809,79,2144.8,107.24,Back to School 2025,Mobile,US
+393,PTR002,Coupon King,Coupon Site,31-03-2026,4639,0,0.0,0.0,New Year Refresh 2026,Tablet,AU
+394,PTR010,SavvyShopperNet,Loyalty/Cashback,03-06-2026,1331,24,2308.56,346.28,Summer Clearance 2025,Mobile,US
+395,PTR007,FitLifeCoach,Influencer,06/24/2026,3344,188,"$39,791.34",4774.96,New Year Refresh 2026,Desktop,AU
+396,PTR003,TechReviewHub,Content Site,15-04-2026,2311,29,2011.62,201.16,Back to School 2025,Desktop,AU
+397,PTR019,GamerGearReviews,Content Site,01/27/2026,2406,22,3407.51,170.38,Summer Clearance 2025,Tablet,UK
+398,PTR009,GadgetGuru,Content Site,06/17/2026,3761,407,49704.96,"$5,964.60",Holiday Gift Guide 2025,Mobile,CA
+399,PTR014,OutdoorLifeReview,Content Site,2025-01-30,3810,527,31713.32,3171.33,Summer Clearance 2025,Tablet,UK
+400,PTR019,GamerGearReviews,Content Site,01/25/2025,1904,183,32376.55,3237.66,Spring Sale 2025,Tablet,US
+401,PTR008,TravelWithMe,Content Site,01/03/2025,1459,134,16348.93,"$3,269.79",Summer Clearance 2025,Desktop,CA
+402,PTR010,SavvyShopperNet,Loyalty/Cashback,2026-04-09,570,61,4652.91,930.58,New Year Refresh 2026,Tablet,US
+403,PTR004,InfluenceHer,Influencer,22-01-2025,567,33,6827.81,682.78,New Year Refresh 2026,Desktop,US
+404,PTR006,HomeAndGardenTips,Content Site,2026-05-30,1850,43,"$7,255.51",$580.44,New Year Refresh 2026,Desktop,DE
+405,PTR020,EcoLivingToday,Content Site,24-06-2025,266,5,894.15,71.53,Back to School 2025,Desktop,AU
+406,PTR006,HomeAndGardenTips,Content Site,20-09-2025,2467,58,1199.4,119.94,New Year Refresh 2026,Desktop,DE
+407,PTR005,DealSeeker247,Coupon Site,27-02-2025,2839,103,2485.16,372.77,Spring Sale 2025,,DE
+408,PTR003,TechReviewHub.,Content Site,06-01-2026,1973,234,26345.67,5269.13,New Year Refresh 2026,Tablet,US
+409,PTR016,PetLoversHub,Content Site,12/23/2025,404,28,2143.52,428.7,Spring Sale 2025,Tablet,US
+410,PTR016,PetLoversHub,Content Site,2025-04-29,966,22,3353.89,670.78,New Year Refresh 2026,Tablet,DE
+411,PTR018,WellnessWeekly,Influencer,2025-09-27,1108,74,8676.34,$694.11,Black Friday 2025,Desktop,US
+412,PTR017,AutoDealsDaily,Affiliate,2026-02-03,454,27,2309.71,,New Year Refresh 2026,Mobile,AU
+413,PTR005,DealSeeker_247,Coupon Site,03-01-2025,3078,0,0.0,0.0,Spring Sale 2025,Tablet,DE
+414,PTR010,SavvyShopperNet,Loyalty/Cashback,2026-03-27,2590,132,2783.29,222.66,New Year Refresh 2026,Desktop,AU
+415,PTR004,InfluenceHer,Influencer,20-06-2026,278,21,449.63,$22.48,Holiday Gift Guide 2025,Mobile,UK
+416,PTR004,InfluenceHer,Influencer,2026-02-09,2209,130,"$9,860.35",788.83,Holiday Gift Guide 2025,Mobile,US
+417,PTR001,StyleBlog Daily,Content Site,07/03/2025,2481,74,2571.38,128.57,Summer Clearance 2025,Desktop,US
+418,PTR016,PetLoversHub,Content Site,02/17/2025,1730,113,,"$1,231.16",New Year Refresh 2026,Mobile,US
+419,PTR011,ParentingPulse,Content Site,29-06-2025,3124,189,21515.14,2151.51,Holiday Gift Guide 2025,Desktop,US
+420,PTR017,AutoDealsDaily,Affiliate,2025-02-02,2044,103,13131.79,"$1,575.81",Black Friday 2025,Mobile,US
+421,PTR020,EcoLivingToday,Content Site,2025-04-09,1954,204,25284.4,1264.22,Holiday Gift Guide 2025,Tablet,CA
+422,PTR007,FitLifeCoach,Influencer,10/08/2025,3378,257,39742.67,3179.41,Black Friday 2025,Mobile,US
+423,PTR011,ParentingPulse,Content Site,31-01-2025,1124,48,6161.89,739.43,Holiday Gift Guide 2025,Mobile,DE
+424,PTR009,GadgetGuru,Content Site,02/18/2025,410,8,901.52,180.3,Back to School 2025,Desktop,US
+425,PTR007,FitLifeCoach,Influencer,05/22/2025,982,98,16583.25,3316.65,Back to School 2025,Desktop,AU
+426,PTR020,EcoLivingToday,Content Site,11/29/2025,55,1,199.73,15.98,Black Friday 2025,Tablet,CA
+427,PTR008,TravelWithMe,Content Site,2025-11-01,2198,258,23868.08,2386.81,Summer Clearance 2025,Mobile,US
+428,PTR012,FoodieFinds,Content Site,07/11/2025,187,8,560.44,28.02,New Year Refresh 2026,Mobile,UK
+429,PTR010,SavvyShopperNet,Loyalty/Cashback,2025-04-12,3306,33,6803.34,340.17,Black Friday 2025,Tablet,UK
+430,PTR011,ParentingPulse,Content Site,08-03-2026,2513,148,7135.06,570.8,Back to School 2025,Tablet,US
+431,PTR013,BudgetBeautyBlog,Influencer,04/26/2025,699,35,2547.02,127.35,Spring Sale 2025,Desktop,UK
+432,PTR004,InfluenceHer,Influencer,06/07/2026,1696,149,"$9,974.50",997.45,New Year Refresh 2026,Mobile,US
+433,PTR012,FoodieFinds,Content Site,02-05-2026,1511,27,3758.18,751.64,New Year Refresh 2026,Tablet,US
+434,PTR008,TravelWithMe,Content Site,04/18/2025,2120,183,6421.01,1284.2,Spring Sale 2025,Mobile,DE
+435,PTR017,AutoDealsDaily,Affiliate,03/02/2026,2879,240,11111.88,555.59,Holiday Gift Guide 2025,Mobile,AU
+436,PTR017,AutoDealsDaily,Affiliate,06/20/2026,1837,74,14094.8,"$1,691.38",Summer Clearance 2025,Mobile,DE
+437,PTR008,TravelWithMe,Content Site,05/01/2025,1230,24,3465.39,415.85,Holiday Gift Guide 2025,Tablet,US
+438,PTR001,StyleBlog Daily,Content Site,25-06-2025,1959,123,"$20,611.18",4122.24,New Year Refresh 2026,Tablet,US
+439,PTR018,WellnessWeekly,Influencer,01/31/2026,1037,119,23088.66,2308.87,Back to School 2025,Desktop,CA
+440,PTR014,OutdoorLifeReview,Content Site,10/17/2025,2515,286,"$29,839.51",2387.16,Holiday Gift Guide 2025,Mobile,US
+441,PTR006,HomeAndGardenTips,Content Site,15-05-2026,1609,226,10765.42,538.27,New Year Refresh 2026,Desktop,US
+442,PTR017,AutoDealsDaily,Affiliate,05/20/2025,2044,339,53584.31,44379.66,Black Friday 2025,Tablet,US
+443,PTR004,InfluenceHer,Influencer,02-01-2026,1883,64,11357.1,1703.57,Summer Clearance 2025,Tablet,US
+444,PTR008,TravelWithMe,Content Site,2025-07-31,418,28,5426.5,434.12,Summer Clearance 2025,Desktop,DE
+445,PTR007,FitLifeCoach,Influencer,2025-06-29,2414,31,4086.74,326.94,New Year Refresh 2026,Mobile,
+446,PTR012,FoodieFinds,Content Site,06-03-2025,1634,66,4623.3,462.33,Black Friday 2025,Tablet,CA
+447,PTR001,StyleBlog Daily,Content Site,06-01-2026,3511,442,20004.53,2400.54,Spring Sale 2025,Mobile,CA
+448,PTR007,FitLifeCoach,Influencer,05/03/2026,1684,64,12534.04,1253.4,Summer Clearance 2025,Mobile,AU
+449,PTR003,TechReviewHub,Content Site,2026-05-13,3120,86,17982.94,1438.64,Holiday Gift Guide 2025,Mobile,DE
+450,PTR014,OutdoorLifeReview,Content Site,2025-06-23,2521,91,6924.64,346.23,Back to School 2025,Desktop,DE
+451,PTR013,BudgetBeautyBlog,Influencer,28-06-2025,2336,82,6053.02,726.36,Black Friday 2025,Desktop,US
+452,PTR012,FoodieFinds,Content Site,21-04-2025,962,108,8882.06,1332.31,Black Friday 2025,Tablet,UK
+453,PTR003,TechReviewHub.,Content Site,19-10-2025,3403,213,"$38,804.46",3104.36,Black Friday 2025,Desktop,AU
+454,PTR013,BudgetBeautyBlog,Influencer,2026-05-03,4403,0,0.0,0.0,Spring Sale 2025,Tablet,US
+455,PTR019,GamerGearReviews,Content Site,2025-02-02,634,80,14305.99,2145.9,Summer Clearance 2025,Desktop,DE
+456,PTR020,EcoLivingToday,Content Site,23-07-2025,2363,242,"$17,749.44",1774.94,Black Friday 2025,Tablet,US
+457,PTR004,InfluenceHer,Influencer,26-01-2025,1131,17,2836.23,425.43,Spring Sale 2025,Mobile,DE
+458,PTR003,Tech Review Hub,Content Site,09/01/2025,1856,82,4171.96,417.2,Black Friday 2025,Mobile,AU
+459,PTR005,DealSeeker247,Coupon Site,06-05-2025,1149,79,8503.81,1700.76,Black Friday 2025,,US
+460,PTR014,OutdoorLifeReview,Content Site,10/04/2025,2608,51,1619.27,323.85,Summer Clearance 2025,Tablet,DE
+461,PTR011,ParentingPulse,Content Site,11/29/2025,2001,106,11612.78,929.02,Holiday Gift Guide 2025,Tablet,US
+462,PTR002,Coupon King,Coupon Site,02/02/2025,1648,78,15183.12,1518.31,New Year Refresh 2026,Desktop,US
+463,PTR018,WellnessWeekly,Influencer,2026-06-07,2822,208,11139.46,1113.95,Holiday Gift Guide 2025,Mobile,AU
+464,PTR004,InfluenceHer,Influencer,02/08/2026,2423,43,,107.94,New Year Refresh 2026,Desktop,US
+465,PTR016,PetLoversHub,Content Site,22-11-2025,2483,46,4438.97,887.79,Back to School 2025,Desktop,
+466,PTR013,BudgetBeautyBlog,Influencer,09-10-2025,2680,18,720.37,144.07,Holiday Gift Guide 2025,Mobile,AU
+467,PTR015,CampusCoupons,Coupon Site,03/30/2026,3528,215,5879.65,1175.93,Summer Clearance 2025,Tablet,AU
+468,PTR004,InfluenceHer,Influencer,05/26/2025,1078,21,1870.82,149.67,Black Friday 2025,Mobile,US
+469,PTR010,SavvyShopperNet,Loyalty/Cashback,09/05/2025,2702,133,14238.8,2135.82,Holiday Gift Guide 2025,Tablet,DE
+470,PTR005,DealSeeker247,Coupon Site,2026-04-08,3685,578,123316.33,12331.63,Holiday Gift Guide 2025,Tablet,UK
+471,PTR005,DealSeeker_247,Coupon Site,2026-04-30,3218,104,15609.51,1560.95,Spring Sale 2025,Tablet,US
+472,PTR001,StyleBlog Daily,Content Site,06-12-2025,830,26,4666.92,466.69,New Year Refresh 2026,Tablet,CA
+473,PTR007,FitLifeCoach,Influencer,2026-03-11,847,109,"$18,956.99",3791.4,New Year Refresh 2026,Tablet,UK
+474,PTR004,InfluenceHer,Influencer,06/10/2026,3593,262,27711.1,3325.33,Black Friday 2025,Desktop,AU
+475,PTR001,StyleBlog Daily,Content Site,15-06-2026,3121,202,12014.22,1201.42,New Year Refresh 2026,Tablet,UK
+476,PTR001,StyleBlog Daily,Content Site,28-04-2025,3629,162,6134.65,736.16,New Year Refresh 2026,Tablet,US
+477,PTR011,ParentingPulse,Content Site,06/04/2025,284,29,3950.99,$395.10,Black Friday 2025,Desktop,
+478,PTR019,GamerGearReviews,Content Site,06-07-2025,2706,91,18571.48,2785.72,Black Friday 2025,,AU
+479,PTR004,InfluenceHer,Influencer,2025-11-13,3027,64,2764.73,331.77,Summer Clearance 2025,Desktop,CA
+480,PTR019,GamerGearReviews,Content Site,22-11-2025,2862,258,22470.47,3370.57,Holiday Gift Guide 2025,Desktop,AU
+481,PTR008,TravelWithMe,Content Site,02/20/2026,1862,29,3313.87,265.11,New Year Refresh 2026,Desktop,CA
+482,PTR002,Coupon King,Coupon Site,02/12/2025,3828,270,30252.68,1512.63,Back to School 2025,Desktop,AU
+483,PTR003,TechReviewHub,Content Site,02/21/2026,2279,224,25898.52,1294.93,New Year Refresh 2026,Desktop,AU
+484,PTR015,CampusCoupons,Coupon Site,03/02/2026,1187,149,24490.26,2938.83,Summer Clearance 2025,Mobile,UK
+485,PTR005,DealSeeker247,Coupon Site,2026-02-24,959,91,1543.99,1786.88,Summer Clearance 2025,Mobile,US
+486,PTR017,AutoDealsDaily,Affiliate,2025-01-23,2459,226,47672.35,2383.62,Black Friday 2025,Tablet,AU
+487,PTR019,GamerGearReviews,Content Site,03/04/2026,629,23,1503.62,225.54,Black Friday 2025,Desktop,US
+488,PTR005,Deal Seeker 247,Coupon Site,2025-06-17,1121,130,3248.25,324.83,Summer Clearance 2025,Tablet,UK
+489,PTR010,SavvyShopperNet,Loyalty/Cashback,03/31/2025,1670,195,"$5,990.81",479.26,Spring Sale 2025,Tablet,CA
+490,PTR001,StyleBlog Daily,Content Site,17-08-2025,948,31,"$5,347.85",$534.79,Black Friday 2025,Mobile,DE
+491,PTR014,OutdoorLifeReview,Content Site,2025-09-02,1006,55,7689.59,768.96,Spring Sale 2025,Mobile,CA
+492,PTR011,ParentingPulse,Content Site,2025-07-28,3094,0,0.0,0.0,Black Friday 2025,Tablet,
+493,PTR001,StyleBlog Daily,Content Site,07-01-2026,1946,121,10480.57,838.45,Black Friday 2025,Tablet,CA
+494,PTR008,TravelWithMe,Content Site,19-07-2025,1387,134,2300.58,$115.03,Spring Sale 2025,Desktop,US
+495,PTR006,HomeAndGardenTips,Content Site,05-01-2025,409,61,6851.32,"$1,370.26",Spring Sale 2025,Tablet,US
+496,PTR014,OutdoorLifeReview,Content Site,06/09/2025,86,2,401.65,40.16,New Year Refresh 2026,Tablet,CA
+497,PTR020,EcoLivingToday,Content Site,10/06/2025,2661,240,"$45,591.32","$3,647.31",Black Friday 2025,Tablet,UK
+498,PTR020,EcoLivingToday,Content Site,12-12-2025,173,1,146.5,21.97,Black Friday 2025,Tablet,AU
+499,PTR013,BudgetBeautyBlog,Influencer,06/05/2025,3956,281,54314.09,6517.69,New Year Refresh 2026,Mobile,US
+500,PTR014,OutdoorLifeReview,Content Site,08/14/2025,2418,321,15321.38,"$1,838.57",Back to School 2025,Mobile,CA
+501,PTR008,TravelWithMe,Content Site,2026-03-10,595,15,1480.75,222.11,Spring Sale 2025,Tablet,US
+502,PTR020,EcoLivingToday,Content Site,2025-07-05,3506,204,8592.61,429.63,Black Friday 2025,Mobile,
+503,PTR010,SavvyShopperNet,Loyalty/Cashback,06/30/2026,1646,44,2094.36,251.32,New Year Refresh 2026,Mobile,US
+504,PTR004,InfluenceHer,Influencer,2025-06-22,1494,77,16792.59,839.63,Black Friday 2025,Tablet,DE
+505,PTR009,GadgetGuru,Content Site,03/01/2026,1856,229,22346.83,4469.37,Black Friday 2025,,US
+506,PTR015,CampusCoupons,Coupon Site,02-06-2025,2378,52,5991.62,$299.58,New Year Refresh 2026,,US
+507,PTR007,FitLifeCoach,Influencer,24-02-2026,2274,157,11415.82,913.27,Holiday Gift Guide 2025,Tablet,DE
+508,,,,,,,,,,,
+509,PTR003,TechReviewHub,Content Site,03/15/2025,1009,73,11934.25,$954.74,Spring Sale 2025,,US
+510,PTR010,SavvyShopperNet,Loyalty/Cashback,11/10/2025,2473,66,7039.66,1407.93,Black Friday 2025,Tablet,US
+511,PTR015,CampusCoupons,Coupon Site,20-09-2025,1967,153,19922.7,1992.27,Spring Sale 2025,Mobile,AU
+512,PTR019,GamerGearReviews,Content Site,26-06-2026,1527,66,2170.24,$108.51,Holiday Gift Guide 2025,Mobile,UK
+513,PTR005,Deal Seeker 247,Coupon Site,07/22/2025,1624,57,9451.28,756.1,Back to School 2025,Desktop,US
+514,PTR008,TravelWithMe,Content Site,03/23/2026,3446,242,27440.52,3292.86,Holiday Gift Guide 2025,Desktop,US
+515,PTR010,SavvyShopperNet,Loyalty/Cashback,24-04-2026,3318,198,10806.07,864.49,Spring Sale 2025,Desktop,US
+516,PTR009,GadgetGuru,Content Site,01-01-2026,654,68,"$12,267.01",1226.7,Holiday Gift Guide 2025,Mobile,AU
+517,PTR016,PetLoversHub,Content Site,15-06-2025,853,92,3814.76,305.18,Black Friday 2025,Mobile,US
+518,PTR016,PetLoversHub,Content Site,2025-01-29,587,47,3645.25,364.53,Spring Sale 2025,Mobile,US
+519,PTR020,EcoLivingToday,Content Site,02-05-2025,948,26,3988.97,$478.68,Black Friday 2025,Tablet,
+520,PTR016,PetLoversHub,Content Site,04/28/2025,1866,49,"$7,165.97",716.6,Back to School 2025,Mobile,DE
+521,PTR015,CampusCoupons,Coupon Site,06/30/2026,2242,259,38041.5,7608.3,Summer Clearance 2025,Mobile,US
+522,PTR002,Coupon King,Coupon Site,11-06-2025,208,9,1031.05,123.73,Spring Sale 2025,Tablet,AU
+523,PTR009,GadgetGuru,Content Site,07-07-2025,2803,107,"$6,756.68",$540.53,Summer Clearance 2025,Mobile,AU
+524,PTR012,FoodieFinds,Content Site,03/21/2026,3815,292,43455.36,6518.3,Back to School 2025,Mobile,DE
+525,PTR018,WellnessWeekly,Influencer,12/05/2025,2883,92,14983.42,1498.34,Summer Clearance 2025,Mobile,CA
+526,PTR015,CampusCoupons,Coupon Site,2025-06-14,4463,0,0.0,$0.00,Holiday Gift Guide 2025,Tablet,US
+527,PTR019,GamerGearReviews,Content Site,23-11-2025,2454,180,35033.93,7006.79,Back to School 2025,Desktop,DE
+528,PTR012,FoodieFinds,Content Site,12-05-2025,2689,63,3444.03,413.28,Holiday Gift Guide 2025,Tablet,US
+529,PTR001,StyleBlog Daily,Content Site,02/10/2026,4785,0,0.0,0.0,Black Friday 2025,Mobile,
+530,PTR016,PetLoversHub,Content Site,24-04-2026,3834,332,52460.21,4196.82,New Year Refresh 2026,Tablet,US
+531,PTR020,EcoLivingToday,Content Site,09/04/2025,3743,151,16491.0,43029.41,Holiday Gift Guide 2025,Tablet,US
+532,PTR012,FoodieFinds,Content Site,02-03-2026,2254,273,50299.9,4023.99,Black Friday 2025,Tablet,UK
+533,PTR008,TravelWithMe,Content Site,29-09-2025,315,8,960.98,192.2,Spring Sale 2025,Mobile,US
+534,PTR001,StyleBlog Daily,Content Site,05/27/2025,2246,306,35886.77,4306.41,Spring Sale 2025,Mobile,US
+535,PTR008,TravelWithMe,Content Site,08/16/2025,1750,132,10214.09,,Black Friday 2025,Tablet,US
+536,PTR011,ParentingPulse,Content Site,02/28/2026,1247,195,40231.67,4023.17,Summer Clearance 2025,Mobile,AU
+537,PTR017,AutoDealsDaily,Affiliate,05-03-2026,2819,242,"$27,257.37",1362.87,Holiday Gift Guide 2025,Tablet,US
+538,PTR019,GamerGearReviews,Content Site,06/16/2026,3576,214,22516.31,2701.96,Summer Clearance 2025,Mobile,DE
+539,PTR005,DealSeeker247,Coupon Site,12/17/2025,2337,178,34138.75,2731.1,New Year Refresh 2026,Desktop,US
+540,PTR005,DealSeeker247,Coupon Site,2025-10-08,67,2,252.44,$37.87,Back to School 2025,Tablet,CA
+541,PTR001,StyleBlog Daily,Content Site,11/05/2025,2715,204,32364.38,3883.73,New Year Refresh 2026,Tablet,UK
+542,PTR020,EcoLivingToday,Content Site,01/11/2025,1577,100,"$3,576.20",715.24,Holiday Gift Guide 2025,Desktop,US
+543,PTR013,BudgetBeautyBlog,Influencer,2025-04-02,3496,166,24513.13,"$4,902.63",Black Friday 2025,Desktop,US
+544,PTR004,InfluenceHer,Influencer,04/13/2025,686,40,"$7,128.38",712.84,Summer Clearance 2025,Mobile,DE
+545,PTR011,ParentingPulse,Content Site,2025-11-23,1614,117,9822.92,1473.44,Spring Sale 2025,Desktop,US
+546,PTR016,PetLoversHub,Content Site,28-04-2026,1696,72,14637.74,$731.89,Spring Sale 2025,Tablet,US
+547,PTR006,HomeAndGardenTips,Content Site,01/19/2025,2807,162,34917.49,5237.62,Back to School 2025,Tablet,US
+548,PTR015,CampusCoupons,Coupon Site,22-12-2025,3456,164,"$29,691.69",2375.34,New Year Refresh 2026,Tablet,CA
+549,PTR003,Tech Review Hub,Content Site,01-12-2025,1706,43,9208.68,1381.3,Back to School 2025,Mobile,US
+550,PTR004,InfluenceHer,Influencer,06/01/2025,621,47,"$3,529.69",705.94,Back to School 2025,Desktop,CA
+551,PTR003,TechReviewHub,Content Site,14-03-2026,1145,32,5515.03,551.5,New Year Refresh 2026,Desktop,DE
+552,PTR015,CampusCoupons,Coupon Site,21-05-2026,3966,585,"$21,096.53",1687.72,Spring Sale 2025,Mobile,US
+553,PTR014,OutdoorLifeReview,Content Site,2026-01-13,3700,229,41723.25,3337.86,Summer Clearance 2025,,US
+554,PTR017,AutoDealsDaily,Affiliate,2026-01-06,1817,26,5419.62,$270.98,Black Friday 2025,Mobile,DE
+555,PTR011,ParentingPulse,Content Site,05/16/2025,3530,207,10436.51,1252.38,Holiday Gift Guide 2025,Mobile,UK
+556,PTR017,AutoDealsDaily,Affiliate,02-05-2026,3378,169,14522.42,1161.79,New Year Refresh 2026,Mobile,AU
+557,PTR012,FoodieFinds,Content Site,23-06-2026,1984,98,9525.01,1428.75,Summer Clearance 2025,Mobile,AU
+558,PTR013,BudgetBeautyBlog,Influencer,12/31/2025,2735,146,10537.2,1264.46,Black Friday 2025,Desktop,US
+559,PTR013,BudgetBeautyBlog,Influencer,03/27/2026,1393,89,18199.04,"$2,729.86",Black Friday 2025,Tablet,UK
+560,PTR010,SavvyShopperNet,Loyalty/Cashback,01/25/2026,2190,82,"$16,070.07",1928.41,Summer Clearance 2025,Desktop,US
+561,PTR010,SavvyShopperNet,Loyalty/Cashback,05-04-2025,1642,32,"$2,609.98",313.2,New Year Refresh 2026,Tablet,UK
+562,PTR014,OutdoorLifeReview,Content Site,10/25/2025,778,109,22618.79,2261.88,Spring Sale 2025,Tablet,US
+563,PTR015,CampusCoupons,Coupon Site,2025-11-15,2960,185,14270.09,2140.51,Black Friday 2025,Desktop,AU
+564,PTR014,OutdoorLifeReview,Content Site,2025-09-05,3692,26,4603.42,690.51,Summer Clearance 2025,Desktop,US
+565,PTR004,InfluenceHer,Influencer,01-08-2025,3681,461,7418.14,$890.18,Summer Clearance 2025,Mobile,UK
+566,PTR015,CampusCoupons,Coupon Site,11-05-2025,6227,0,0.0,0.0,Spring Sale 2025,Mobile,US
+567,PTR013,BudgetBeautyBlog,Influencer,02-04-2026,2361,64,6133.51,$490.68,New Year Refresh 2026,Tablet,US
+568,PTR016,PetLoversHub,Content Site,03-01-2026,1234,174,"$9,071.12",453.56,Holiday Gift Guide 2025,Tablet,US
+569,PTR003,Tech Review Hub,Content Site,31-01-2025,966,48,1320.8,66.04,Summer Clearance 2025,,US
+570,PTR001,StyleBlog Daily,Content Site,03-11-2025,429,6,221.65,33.25,Summer Clearance 2025,Tablet,US
+571,PTR018,WellnessWeekly,Influencer,03-02-2025,1427,82,17645.09,3529.02,Spring Sale 2025,Tablet,
+572,PTR007,FitLifeCoach,Influencer,2025-06-03,1348,93,15063.04,1807.56,Black Friday 2025,Mobile,US
+573,PTR013,BudgetBeautyBlog,Influencer,14-03-2026,1348,77,3374.56,$337.46,Black Friday 2025,Desktop,US
+574,PTR016,PetLoversHub,Content Site,12-12-2025,1764,126,10032.23,802.58,Holiday Gift Guide 2025,Desktop,DE
+575,PTR010,SavvyShopperNet,Loyalty/Cashback,08/28/2025,2689,39,"$1,208.12",$181.22,Spring Sale 2025,Mobile,US
+576,PTR016,PetLoversHub,Content Site,11/21/2025,1433,197,14577.37,2186.61,Back to School 2025,Desktop,DE
+577,PTR020,EcoLivingToday,Content Site,01/28/2025,1990,176,12664.78,1013.18,Spring Sale 2025,Desktop,US
+578,PTR008,TravelWithMe,Content Site,01/20/2025,3207,257,21980.44,3297.07,Summer Clearance 2025,Desktop,
+579,PTR007,FitLifeCoach,Influencer,10-05-2025,2089,144,15285.31,1222.82,Summer Clearance 2025,Mobile,US
+580,PTR009,GadgetGuru,Content Site,2026-02-27,3045,69,3539.77,424.77,Back to School 2025,Tablet,US
